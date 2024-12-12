@@ -2,3 +2,8 @@ Naval X -> NavalX
 NRL -> NREL
 Ari -> ARI
 Propel -> PROPELS
+JREX -> JREC
+Anello -> ANELLO
+Mabel X -> NavalX
+iOS -> IOS
+SIBOR -> SBIR
