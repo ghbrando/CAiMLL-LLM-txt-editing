@@ -1,7 +1,7 @@
 Overall Focus of the Conversation
-The conversation is a Naval X Weekly Team update, focusing on various ongoing projects, upcoming events, and administrative updates for the team.
+The conversation is a NavalX Weekly Team update, focusing on various ongoing projects, upcoming events, and administrative updates for the team.
 Identified Speakers and Roles
-Speaker-1: Likely a senior leader or project manager at Naval X, providing updates and leading the meeting.
+Speaker-1: Likely a senior leader or project manager at NavalX, providing updates and leading the meeting.
 Speaker-2: Team member asking questions and providing additional updates.
 Speaker-3: Another team member asking follow-up questions.
 Speaker-4: Team member asking for clarifications.
@@ -22,7 +22,7 @@ General Updates
 Fiscal Year Start: The team is in the first week of the new fiscal year.
 Christmas Party: Scheduled for December 7, tickets available online.
 Federal Holidays: Upcoming holidays and voting day in November.
-Submarine Grand Prize Challenge: NRL is leading, with support from Johns Hopkins APL. First output expected on October 28-29.
+Submarine Grand Prize Challenge: NREL is leading, with support from Johns Hopkins APL. First output expected on October 28-29.
 End of Year Performance Reviews: Due ASAP.
 National Election: Encouragement to vote.
 Portfolio Council: Upcoming meeting in November.
@@ -32,17 +32,19 @@ Contracting Strategy: Discussion with Jamie Thompson about CSOs and BAAs.
 National Security Venture Capital Summit: Scheduled with Cyberworks.
 PMR: Scheduled with external participants, including Senator Reid.
 Financial and Administrative Updates
-First Slug of Dollars: Received for Group 1 into O1R.
+First Slug of Dollars: Received for Syria Group 1 into O1R.
 Urgent Financial Needs: Team members to notify if they have urgent financial needs.
 Salesforce ATO: Expected completion in October, 120 licenses available.
 Digital On-Ramp Agreement: In SOW baseline negotiations.
 Specific Project Updates
-Task Force 59: Final demo of Anello X3 IMU in San Diego.
+Pacfic: Brief to JREC (INDOPACON Joint Rapid Capability and Experimentation)
+Six six: USAI funds expiring in December
+Task Force 59: Final demo of ANELLO X3 IMU in San Diego.
 Group Four: Industry event being coordinated.
 Mid-Atlantic Tech Bridge: Various events including NCMS tech talk and networking event.
 Jermaine: Small business event and STEM competition.
 Palmetto: S&T technical interchange agreement and virtualized amphib project.
-Midwest: Defense Innovation Summit and Propel event.
+Chris: Midwest Defense Innovation Summit partnering with ARI, PROPELS event, and dial in Minnesota node.
 Marketing and Communication
 Event Engagement: Ongoing work on event engagement and strategic campaign.
 South by Southwest: Initial meeting held, further planning ongoing.
