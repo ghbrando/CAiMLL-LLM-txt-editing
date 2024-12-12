@@ -31,7 +31,8 @@ file_0001e03f_6950_4c59_8007_8f99c3d5d4c3 = {
 
 }
 file_154ba492_58d0_4e70_9456_661907d4a916 = {
-
+    "Port Wyoming": "Port Hueneme",
+    "holography": "holographically"
 }
 
 file_1814117d_1d34_47de_837c_4f7249d42664 = {
