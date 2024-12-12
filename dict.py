@@ -23,7 +23,6 @@ file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee = {
     "O&R": "ONR"
 }
 
-
 file_0ab1a881_8dfc_44b3_88c5_f51a08f3f82d = {
 
 }
@@ -38,9 +37,6 @@ file_154ba492_58d0_4e70_9456_661907d4a916 = {
 file_1814117d_1d34_47de_837c_4f7249d42664 = {
 
 }
-
-# how do i do a multi line comment in python? 
-# 
 
 def writeTo(dict, path):
     with open(path, 'w', encoding='utf-8') as file:
