@@ -13,8 +13,8 @@ aggregated_errors_dict = {
     #From file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee
     "Navel X": "NavelX",
     "Commander�s": "Commanders",
-    "O&R": "ONR"
-
+    "O&R": "ONR",
+    "Dina":"DINA"
 }
 
 file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee = {
