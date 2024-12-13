@@ -16,7 +16,7 @@ Firestorm's Capabilities Brief
 Ian provides a high-level overview of Firestorm's capabilities:
   - Specializes in manufacturing drones within Group 2 and 1, with plans to expand to Group 3.
   - Focus on additive manufacturing to produce drones at the edge.
-  - Contracts with the Air Force, O&R, and other entities.
+  - Contracts with the Air Force, ONR, and other entities.
   - Recent activities include raising a Series A, and operations in Taiwan and Eastern Europe.
   - Emphasis on supporting Navy and Army efforts, particularly in additive manufacturing.
   - Firestorm's drones are payload agnostic and can be produced in 48 hours.

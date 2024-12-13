@@ -35,7 +35,7 @@ file_154ba492_58d0_4e70_9456_661907d4a916 = {
 }
 
 file_1814117d_1d34_47de_837c_4f7249d42664 = {
-
+    "O&R": "ONR",
 }
 
 def writeTo(dict, path):
