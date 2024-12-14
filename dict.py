@@ -11,14 +11,14 @@ aggregated_errors_dict = {
     #Add your errors here
     
     #From file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee
-    "Navel X": "NavelX",
+    "Naval X": "NavalX",
     "Commander�s": "Commanders",
     "O&R": "ONR"
 
 }
 
 file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee = {
-    "Navel X": "NavelX",
+    "Naval X": "NavalX",
     "Commander�s": "Commanders",
     "O&R": "ONR"
 }
