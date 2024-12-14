@@ -36,7 +36,7 @@ file_0ab1a881_8dfc_44b3_88c5_f51a08f3f82d = {
 }
 
 file_0001e03f_6950_4c59_8007_8f99c3d5d4c3 = {
-    "Naval X": "NavalX"
+    "Naval X": "NavalX",
     "Dina": "DINA"
 }
 file_154ba492_58d0_4e70_9456_661907d4a916 = {
