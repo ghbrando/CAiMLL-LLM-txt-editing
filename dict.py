@@ -24,7 +24,15 @@ file_0c538c99_5f0e_47a3_95ad_c9d56f12e8ee = {
 }
 
 file_0ab1a881_8dfc_44b3_88c5_f51a08f3f82d = {
-
+    "Naval X": "NavalX",
+    "NRL": "NREL",
+    "Ari": "ARI",
+    "Propel": "PROPELS",
+    "JREX": "JREC",
+    "Anello": "ANELLO",
+    "Mabel X": "NavalX",
+    "iOS": "IOS",
+    "SIBOR": "SBIR"
 }
 
 file_0001e03f_6950_4c59_8007_8f99c3d5d4c3 = {
