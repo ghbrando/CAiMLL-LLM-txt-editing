@@ -1,0 +1,40 @@
+Overall Focus
+The conversation centers around the development and implementation of holographic technology for business and military applications, including updates on project status, coordination among various stakeholders, and potential use cases.
+Identified Speakers and Roles
+Speaker-1: Unidentified, minimal contribution.
+Speaker-2: Likely a project manager or coordinator, facilitating the discussion and ensuring follow-ups.
+Speaker-3: Involved in business development for Holographics.
+Speaker-4: Wally Haws, associated with Holographics.
+Speaker-5: Technical expert or lead, transitioning to new markets but still involved in the project.
+Summary of Relevant Details
+Introduction and Identification
+Speaker-2 introduces Troy Clark and mentions the development of a tool with a university's applied machine learning lab.
+Speaker-3 and Speaker-4 identify their roles in Holographics.
+Project Updates
+Speaker-3 mentions a recent meeting with Alan and Nita regarding the status of the crater project.
+Speaker-3 notes a change in the definition of small business in the US code to NAICS, which Nita will check with legal.
+Speaker-3 states that Alan will get letters from Port Hueneme and Corona to confirm the facility security officer's authorization.
+Coordination and Next Steps
+Speaker-3 and Speaker-2 discuss internal coordination for the security office.
+Speaker-3 outlines the need for emails to ensure all documentation is ready for the US trade representative.
+Speaker-5 talks about planning the first project and use case, mentioning the need for prototype testing and a kickoff meeting.
+Speaker-5 mentions a new facility at UCF Florida with a Novak table by the end of the year.
+Use Cases and Technical Details
+Speaker-2 suggests ballistic missile reconstruction analysis as a potential use case.
+Speaker-5 proposes involving Michael Clark from Dahl Rant for additional perspective.
+Speaker-2 and Speaker-4 discuss using notional data for 3D reconstruction and the possibility of porting it to their system.
+Facilities and Logistics
+Speaker-4 mentions having a Novak in St. John's and plans for another in Silicon Valley.
+Speaker-2 inquires about the location in Silicon Valley, which is still to be determined.
+Data Visualization and Future Work
+Speaker-2 and Speaker-4 discuss the potential for data visualization holographically, including cyber domain and spatial data.
+Speaker-5 mentions support for Unreal Engine and Unity for data-based work.
+Speaker-2 suggests reimagining data visualization holographically.
+Conclusion and Follow-ups
+Speaker-4 emphasizes the need to reestablish face-to-face meetings and provide updates on the crater project.
+Speaker-2 acknowledges the importance of the joint crater and the need to get it through the foci.
+Speaker-5 and Speaker-4 discuss the progress and coordination with Alan and Anita.
+Speaker-2 plans to pull together teams and subject matter experts for further collaboration.
+Speaker-5 suggests revisiting the ASI data visualization project for quick turnaround and demonstration.
+Closing Remarks
+Speaker-2 wraps up the meeting, indicating they will send a copy of the discussion to the participants.
