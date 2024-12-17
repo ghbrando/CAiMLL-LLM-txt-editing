@@ -1,0 +1,782 @@
+{
+    "session_id": "e6576876-368c-496e-a570-0b675bc9618a",
+    "transcript": [
+        {
+            "start": 0.59,
+            "end": 4.15,
+            "speaker": "Speaker-1",
+            "content": "Alright, Troy Clark, Inland Empire Tech Bridge and then we can go over to you, Ben.",
+            "revisions": []
+        },
+        {
+            "start": 5.96,
+            "end": 6.88,
+            "speaker": "Speaker-1",
+            "content": "Zemcross and C.",
+            "revisions": []
+        },
+        {
+            "start": 7.31,
+            "end": 8.87,
+            "speaker": "Speaker-2",
+            "content": "Founder Ensemble Space Labs.",
+            "revisions": []
+        },
+        {
+            "start": 8.87,
+            "end": 12.79,
+            "speaker": "Speaker-3",
+            "content": "Daniel Delgado, associate at Fed Tech.",
+            "revisions": []
+        },
+        {
+            "start": 15.24,
+            "end": 16.04,
+            "speaker": "Speaker-1",
+            "content": "All right, Nathan.",
+            "revisions": []
+        },
+        {
+            "start": 17.43,
+            "end": 21.43,
+            "speaker": "Speaker-4",
+            "content": "Nathan Stewart, community program manager at the Tech Bridge.",
+            "revisions": []
+        },
+        {
+            "start": 21.43,
+            "end": 24.43,
+            "speaker": "Speaker-1",
+            "content": "All right, cool. All right. That's all. Thanks.",
+            "revisions": []
+        },
+        {
+            "start": 24.43,
+            "end": 26.15,
+            "speaker": "Speaker-4",
+            "content": "All right, great.",
+            "revisions": []
+        },
+        {
+            "start": 26.83,
+            "end": 28.43,
+            "speaker": "Speaker-2",
+            "content": "Let me share screen.",
+            "revisions": []
+        },
+        {
+            "start": 38.8,
+            "end": 45.88,
+            "speaker": "Speaker-5",
+            "content": "All right. You guys seen us?",
+            "revisions": []
+        },
+        {
+            "start": 45.88,
+            "end": 47.12,
+            "speaker": "Speaker-1",
+            "content": "All right. Yeah, it's coming through.",
+            "revisions": []
+        },
+        {
+            "start": 48.39,
+            "end": 55.67,
+            "speaker": "Speaker-2",
+            "content": "OK, Yes, this is Ensemble Space Labs building a space environment intelligence platform.",
+            "revisions": []
+        },
+        {
+            "start": 57.16,
+            "end": 77.4,
+            "speaker": "Speaker-2",
+            "content": "This is the team. So we have 5 people on the team and there's one other part timer not listed as a data scientist, but yeah, my background Navy. Then we have a few different pH DS who are pretty strong on the physics and data science piece as well as a software engineer. So we've been.",
+            "revisions": []
+        },
+        {
+            "start": 78.31,
+            "end": 104.03,
+            "speaker": "Speaker-2",
+            "content": "Yeah, Come build a team really to have kind of the technical underpinnings to do all the necessary data processing and understand kind of the underlying science behind it. So the problem we're trying to solve is space weather. So there's lots of vulnerable assets coming from space weather. It's really broadly the kind of dynamic sun Earth system where solar activity like flares, mass ejections.",
+            "revisions": []
+        },
+        {
+            "start": 104.92,
+            "end": 110.28,
+            "speaker": "Speaker-2",
+            "content": "Are going to reach Earth and interact with the Earth's magnetic field.",
+            "revisions": []
+        },
+        {
+            "start": 110.63,
+            "end": 136.83,
+            "speaker": "Speaker-2",
+            "content": "Upper atmosphere and they can cause a few different impacts. So some of these are listed in the diagram and some of the assets or stuff like astronauts, satellites, planes, anything using GNSS or other GNS, sorry GPS or other GNSS type systems, communication systems particularly at UHF and frequencies and lower and then also the electric grid.",
+            "revisions": []
+        },
+        {
+            "start": 139.4,
+            "end": 144.72,
+            "speaker": "Speaker-2",
+            "content": "So these are just kind of a few, I guess examples of impacts from space weather events, so.",
+            "revisions": []
+        },
+        {
+            "start": 145.11,
+            "end": 174.27,
+            "speaker": "Speaker-2",
+            "content": "This was a couple years ago. The SpaceX lost basically a full launch of Starling satellites because they were launched during a solar storm and these caused the satellites to become unstable, lose altitude, and ultimately come crashing back in through the atmosphere. Just this past May actually a solar storm knocked out GPS for most of America and it cost American farmers about 500 million because of the loss of revenue for being unable to use any precision.",
+            "revisions": []
+        },
+        {
+            "start": 175.07,
+            "end": 180.91,
+            "speaker": "Speaker-2",
+            "content": "TPS guided agriculture equipment, and then there's also the need for astronauts as well. Where?",
+            "revisions": []
+        },
+        {
+            "start": 181.15,
+            "end": 211.03,
+            "speaker": "Speaker-2",
+            "content": "Solar storms pose a major radiation threat. So they're looking at any kind of commercial or government, military, human space activity. It's solar. Solar weather is a major risk. And so that's really what we're trying to address, kind of diving into a little bit more detail on the specific impacts of space weather. So atmospheric drag, charged particle relation and ionosphere conditions are kind of a separate phenomenon, all associated with space weather, but they have different.",
+            "revisions": []
+        },
+        {
+            "start": 211.39,
+            "end": 215.91,
+            "speaker": "Speaker-2",
+            "content": "So drag is really going to affect how the satellites fly through the.",
+            "revisions": []
+        },
+        {
+            "start": 217.64,
+            "end": 240.92,
+            "speaker": "Speaker-2",
+            "content": "Thermosphere, so really applicable to Leo and so it's going to fly the launch operations stuff like space domain awareness and conjunction analysis and then guidance, navigation and control of satellites. So really kind of a wide range of impacts on how satellites are flying through low Earth orbit for charged particle radiation. These are going to be so high energy charge particles.",
+            "revisions": []
+        },
+        {
+            "start": 241.31,
+            "end": 271.23,
+            "speaker": "Speaker-2",
+            "content": "That are coming from the sun and these can impact humans, like I said, for radiation poisoning and also satellite. So these can cause unexpected impacts on satellites and being able to kind of determine what the space environment is, is really big for anomaly resolution. So trying to determine if you know your satellite is, you know, being targeted by some type of, you know, interference and directed energy weapon or if it's just kind of a, you know, unconventional, like an unexpected space environment.",
+            "revisions": []
+        },
+        {
+            "start": 271.55,
+            "end": 289.51,
+            "speaker": "Speaker-2",
+            "content": "And then also kind of for risk mitigation, so being able to assess what the space environment conditions are, kind of operate accordingly. So if you think that there's been some type of impact, you can kind of reboot, you know, your satellite and put it into essentially like a safe mode if you think that there is solar activity happening and.",
+            "revisions": []
+        },
+        {
+            "start": 289.63,
+            "end": 317.47,
+            "speaker": "Speaker-2",
+            "content": "And the last one is the ionosphere. So this is really going to affect anything with signal transmission. So TNT and communications, particularly the frequencies of UHF and below can be disrupted or degraded based on space weather activities. So these are kind of some of the primary issues that we're trying to address with our platform and they have a rod a broad range of impacts both on the DoD as well as the civilian sectors.",
+            "revisions": []
+        },
+        {
+            "start": 318.48,
+            "end": 320.68,
+            "speaker": "Speaker-2",
+            "content": "And so our solution is.",
+            "revisions": []
+        },
+        {
+            "start": 321.39,
+            "end": 327.91,
+            "speaker": "Speaker-2",
+            "content": "Really kind of hinged on three major pillars that I briefly described earlier. So the biggest 1 is.",
+            "revisions": []
+        },
+        {
+            "start": 328.31,
+            "end": 357.75,
+            "speaker": "Speaker-2",
+            "content": "Making sure that we're getting more data, so really using a lot of data processing and data fusion. So novel methods basically get more useful insights out of non traditional data sources, making sure these are efficiently processed and so we can get kind of near real time outputs. And for kind of the last, you know, missing data sources is really where we look at any of the kind of hardware type of piece of identifying that the gas once we've exhausted kind of what's available.",
+            "revisions": []
+        },
+        {
+            "start": 357.87,
+            "end": 387.71,
+            "speaker": "Speaker-2",
+            "content": "And looking to kind of deploy instruments to mitigate those data gaps on the modeling side. So really what we're able to do is give higher accuracy and resolution. And also it's also applicable to forecast, kind of being able to forecast out further at at high accuracy and resolution. And so really leaning on machine learning, but physics informs, it's kind of a small subsection of the broader machine learning where we can really take advantage a lot of the known science that's driving.",
+            "revisions": []
+        },
+        {
+            "start": 387.99,
+            "end": 417.91,
+            "speaker": "Speaker-2",
+            "content": "Interactions while still being able to leverage new data and kind of the modern machine learning techniques as well as some other techniques like ensemble walling and data simulation. So what we're looking at is really a lot of methods have been successfully used for terrestrial weather systems and applying these to the problem of space weather. And as mentioned the resolution or sorry the latency is something that we can really reduce as well. Machine learning models are able to run a lot faster than some of the numerical.",
+            "revisions": []
+        },
+        {
+            "start": 418.07,
+            "end": 437.51,
+            "speaker": "Speaker-2",
+            "content": "Also kind of the pure physics stuff that has to be run on these massive supercomputers. So we think there's a lot of advantages in our approach. And then the last piece is really getting kind of catered insights for the different use cases to really making sure that we can meet the needs of each application. So from like risk assessments, alerts, notifications.",
+            "revisions": []
+        },
+        {
+            "start": 440.92,
+            "end": 451.04,
+            "speaker": "Speaker-2",
+            "content": "Interactive kind of analytical tools, anomaly detection, and you know, having an API available to plug in the space environment into different user tools.",
+            "revisions": []
+        },
+        {
+            "start": 451.39,
+            "end": 470.67,
+            "speaker": "Speaker-2",
+            "content": "So this is really all all about what we're trying to kind of do is using this and so our commercialization strategy. So really with the government looking at NASA, NOAA, DoD and the intelligence community and looking to leverage our SBIR.",
+            "revisions": []
+        },
+        {
+            "start": 472.28,
+            "end": 482.64,
+            "speaker": "Speaker-2",
+            "content": "Funding so you kind of find some of these fall opportunities like the the phase three ideally would be, you know, setting up something like a a multi or an interior agency or multi agency.",
+            "revisions": []
+        },
+        {
+            "start": 483.23,
+            "end": 488.79,
+            "speaker": "Speaker-2",
+            "content": "Phase three, we can address the needs of different groups.",
+            "revisions": []
+        },
+        {
+            "start": 490.48,
+            "end": 515.0,
+            "speaker": "Speaker-2",
+            "content": "And then also looking at some of these matching funds opportunities as well. And then for the commercial sector, we're looking at the space industry. So satellite operator is a launch providers and different software providers for the satellites, looking at getting a pilot out there first as we're kind of developing, so getting our products in the hands of satellite operators so we can really start building those relationships in the feedback loops and also.",
+            "revisions": []
+        },
+        {
+            "start": 515.75,
+            "end": 528.75,
+            "speaker": "Speaker-2",
+            "content": "Looking at doing something of a cashless exchange so we can start getting user data as well to then feed in and train our models, and then looking at doing something like a SAS revenue type model.",
+            "revisions": []
+        },
+        {
+            "start": 530.92,
+            "end": 545.56,
+            "speaker": "Speaker-2",
+            "content": "Competitions, this is a little bit of the other landscape is more kind of investor focused, but there's a yes, some non traditional companies doing similar stuff. A few of the defensive crimes are also working in space weather and there's a handful of other small start-ups.",
+            "revisions": []
+        },
+        {
+            "start": 546.83,
+            "end": 575.71,
+            "speaker": "Speaker-2",
+            "content": "As well. And then our funding thus far. So we do have these contracts that we're coming over from what was being worked on in the previous entities. So we have NASA SJR phase one through 3 for space weather data processing tools. We also recently started a new phase one with NASA to build a forecasting model as a machine learning model for a specific phenomena.",
+            "revisions": []
+        },
+        {
+            "start": 576.27,
+            "end": 601.51,
+            "speaker": "Speaker-2",
+            "content": "We have funding from NOAA to help improve upon some of their existing tools and develop really that last mile insights of having the the monitoring, the visualizations, the alerts for, for one of the models that Noah has built. And then we have a direct to phase through from AFRL to forecast solar particles, which are another space weather phenomenon.",
+            "revisions": []
+        },
+        {
+            "start": 606.84,
+            "end": 609.44,
+            "speaker": "Speaker-2",
+            "content": "Yeah. Are there any questions about this?",
+            "revisions": []
+        },
+        {
+            "start": 612.13,
+            "end": 613.61,
+            "speaker": "Speaker-1",
+            "content": "Very impressive. This is great.",
+            "revisions": []
+        },
+        {
+            "start": 615.44,
+            "end": 643.16,
+            "speaker": "Speaker-1",
+            "content": "I like the the multi agency phase three concept as well. We just had a meeting with Space Works yesterday looking at common capabilities that we could we could address and pursue together. So would like to explore that with them as well. And then on the Noah side, my former tech transfer officer, he used to work with me is now over serving as a tech transfer officer for Noah and all their labs. So that might be an interesting partnership too.",
+            "revisions": []
+        },
+        {
+            "start": 648.12,
+            "end": 662.12,
+            "speaker": "Speaker-2",
+            "content": "Yeah, Yeah. I think that there's a lot of opportunity there just because there's so many different groups that are working in space weather. And we think that that's one way that instead of having kind of different spurs for each kind of specific.",
+            "revisions": []
+        },
+        {
+            "start": 664.16,
+            "end": 676.92,
+            "speaker": "Speaker-2",
+            "content": "Technology, if we we can get something like this, we can really have the the platform and it's, it's kind of an Ave. to build off of where we could be kind of building, you know, the different models and kind of the different tools that meet the, the specific use cases of each group.",
+            "revisions": []
+        },
+        {
+            "start": 680.53,
+            "end": 693.49,
+            "speaker": "Speaker-3",
+            "content": "Yeah. And a quick question, Benjamin is for, for the tech technology or product, are you still working on further developing the technology or do you have an already working product or is that what the SBIR is being used to fund?",
+            "revisions": []
+        },
+        {
+            "start": 695.28,
+            "end": 722.4,
+            "speaker": "Speaker-2",
+            "content": "So a little bit of both. So we have kind of a existing pilot version and right now so it's just taking existing models. And really what that is showing is the kind of the the last pillar of what we're doing, which is kind of generating the catered insights. And so it's addressing the atmospheric drag use case, so we can visualize the space environment conditions at this different altitude we have.",
+            "revisions": []
+        },
+        {
+            "start": 722.95,
+            "end": 752.12,
+            "speaker": "Speaker-2",
+            "content": "Notifications if there are expected, you know, kind of adverse space weather conditions. And then we have a tool where you can actually fly your satellite through a propagated orbit. And you can kind of see not just what is the, you know, environment kind of looking at as a whole, but like what will your satellite experience specifically and kind of calculate some relative metrics like how much altitude is it going to lose based on like the expected space weather conditions.",
+            "revisions": []
+        },
+        {
+            "start": 752.27,
+            "end": 779.19,
+            "speaker": "Speaker-2",
+            "content": "And so that's what we've got kind of more or less you know ready and we are at earlier stages of development and some of the other projects. So with the Sep forecasting model, so that's like a different space weather phenomenon. We're about halfway through a two year directive phase two SBIR and then for the installation one which is a separate space weather phenomena we just started.",
+            "revisions": []
+        },
+        {
+            "start": 780.8,
+            "end": 781.92,
+            "speaker": "Speaker-2",
+            "content": "A a phase one with NASA.",
+            "revisions": []
+        },
+        {
+            "start": 782.91,
+            "end": 808.64,
+            "speaker": "Speaker-2",
+            "content": "Last month, so pretty pretty early on and then this this Noah one, we actually just officially got the contract yesterday. So that's kind of a big a big win for us. Congratulations to and that is to really improve upon. So Noah has a kind of space weather equivalent of like the the National Weather Service. And So what we are doing is building upon their tools to kind of make it more robust and kind of.",
+            "revisions": []
+        },
+        {
+            "start": 808.68,
+            "end": 822.68,
+            "speaker": "Speaker-2",
+            "content": "Have stuff that's really desired by the community. So like kind of quantifying the uncertainty so you know you can see your prediction, but also like the plus minus, you know where it is. And so that's really useful for operators as they're trying to kind of gauge you know what, you know what, what they need to be thinking about.",
+            "revisions": []
+        },
+        {
+            "start": 824.03,
+            "end": 852.99,
+            "speaker": "Speaker-2",
+            "content": "And also kind of, you know, assessing the, the model performance and trying to improve upon that. So a few different things there going on with the with Nella. So yeah, the, the, the hope is that we can kind of have one more like consistent kind of vehicle instead of trying to I guess go after each topic, you know, kind of one at a time and and really kind of tie, tie everything together, saying there's a lot of synergies from our platform approach where a lot of the data sources are going to be applicable between the different models and a lot of the the infrast.",
+            "revisions": []
+        },
+        {
+            "start": 853.19,
+            "end": 863.71,
+            "speaker": "Speaker-2",
+            "content": "Applicable. And so then we can kind of cater the applications to just the different user groups once we have all the kind of internal infrastructure set up and consolidated.",
+            "revisions": []
+        },
+        {
+            "start": 863.71,
+            "end": 874.15,
+            "speaker": "Speaker-3",
+            "content": "Of course. Great. Thanks for guiding me through that. A quick question, Ben, you mentioned that you're based in Maryland. How far are you outside of DC proper?",
+            "revisions": []
+        },
+        {
+            "start": 880.48,
+            "end": 885.52,
+            "speaker": "Speaker-3",
+            "content": "Awesome. So for Fed Tech, so in terms of our programs here on the West Coast.",
+            "revisions": []
+        },
+        {
+            "start": 886.03,
+            "end": 914.67,
+            "speaker": "Speaker-3",
+            "content": "Troy has a couple of contacts he had. He had him share it. However for Fed tech, Fed tech HQ isn't Arlington. I think the metro stop is Boston. So there is a deep tech meet up tomorrow. We do have a NASA Noah kind of startup studio program with people who run those programs based out of HQ. Now I don't know if they will be at that meet up in the evening, but I think it's worth your while just.",
+            "revisions": []
+        },
+        {
+            "start": 915.15,
+            "end": 923.51,
+            "speaker": "Speaker-3",
+            "content": "Just to go drop by and mingle further with the individuals from our HQ office and Troy, I think somebody from Naval.",
+            "revisions": []
+        },
+        {
+            "start": 923.51,
+            "end": 928.47,
+            "speaker": "Speaker-1",
+            "content": "And also Deputy Director Scott Beaulieu will be the speaker there for that.",
+            "revisions": []
+        },
+        {
+            "start": 928.47,
+            "end": 932.15,
+            "speaker": "Speaker-1",
+            "content": "Reception so you get to meet some of the Naval acts leadership as well.",
+            "revisions": []
+        },
+        {
+            "start": 933.43,
+            "end": 957.96,
+            "speaker": "Speaker-3",
+            "content": "Yeah. But I, I think that's the best way to kind of segue further in 'cause you're, you're already past that startup studio phase. I mean you have the funding, you're already working further towards the the technology. And so you're kind of in that in between phase between studio and accelerator. So if the so would you like me to board over some information about that meet up at the Fed site? Yeah, Yeah, no, that would be, that would be great.",
+            "revisions": []
+        },
+        {
+            "start": 958.6,
+            "end": 963.52,
+            "speaker": "Speaker-2",
+            "content": "You're you're the ground with a lot of the events happening in the in the area. But yeah.",
+            "revisions": []
+        },
+        {
+            "start": 964.47,
+            "end": 967.19,
+            "speaker": "Speaker-2",
+            "content": "I was not tracking Alice. Would love to love to see it and see if I.",
+            "revisions": []
+        },
+        {
+            "start": 967.19,
+            "end": 985.27,
+            "speaker": "Speaker-3",
+            "content": "Can attend wonderful. Yes, I will be meeting with our marketing team right after this call. So I will get a link over to you via e-mail. I have your e-mail in the calendar invite and I will make it known to some people there that you will that you might drop by and then just say that.",
+            "revisions": []
+        },
+        {
+            "start": 985.27,
+            "end": 985.67,
+            "speaker": "Speaker-3",
+            "content": "I sent you.",
+            "revisions": []
+        },
+        {
+            "start": 985.67,
+            "end": 988.55,
+            "speaker": "Speaker-1",
+            "content": "There. OK. Yeah, yeah, that sounds great. That sounds great.",
+            "revisions": []
+        },
+        {
+            "start": 989.44,
+            "end": 992.16,
+            "speaker": "Speaker-1",
+            "content": "And then go ahead, Ben.",
+            "revisions": []
+        },
+        {
+            "start": 992.16,
+            "end": 994.6,
+            "speaker": "Speaker-2",
+            "content": "Oh, I was. I was asking.",
+            "revisions": []
+        },
+        {
+            "start": 995.71,
+            "end": 1001.83,
+            "speaker": "Speaker-2",
+            "content": "So, so you mentioned that you guys are on the West Coast. Is there like a kind of regional or like an East Coast like I guess kind of counter counterpart to?",
+            "revisions": []
+        },
+        {
+            "start": 1001.83,
+            "end": 1022.83,
+            "speaker": "Speaker-1",
+            "content": "Yeah. So we've got, I mean in terms of our accelerator programs that's we're, we're paddling it out here on the West Coast. But it doesn't mean that we couldn't take one off, you know, in the in the interim as we scale it across the the country. But we do have a lot of tech bridges on the East Coast. We've got the Potomac with and Dahlgren, Virginia.",
+            "revisions": []
+        },
+        {
+            "start": 1023.72,
+            "end": 1026.76,
+            "speaker": "Speaker-1",
+            "content": "We've got our capital tech bridge with.",
+            "revisions": []
+        },
+        {
+            "start": 1027.23,
+            "end": 1029.59,
+            "speaker": "Speaker-1",
+            "content": "NSW well with Card Rock, Maryland.",
+            "revisions": []
+        },
+        {
+            "start": 1031.68,
+            "end": 1034.52,
+            "speaker": "Speaker-1",
+            "content": "And a number of others on the eastern seaboard so.",
+            "revisions": []
+        },
+        {
+            "start": 1036.52,
+            "end": 1058.08,
+            "speaker": "Speaker-1",
+            "content": "We, if you, if you go to our website, our Naval X website, you'll see a map of all the tech bridges and you'll, and you'll see all the different focus areas that we're, we're interested in which it relates to our initial, you know, our host command, but we do have a lot of data analytics. My command, we do a lot of data analytics in AI so.",
+            "revisions": []
+        },
+        {
+            "start": 1060.03,
+            "end": 1064.39,
+            "speaker": "Speaker-1",
+            "content": "And then very much about what we're doing. Yeah, There you go. Thanks, Nathan.",
+            "revisions": []
+        },
+        {
+            "start": 1064.39,
+            "end": 1065.79,
+            "speaker": "Speaker-3",
+            "content": "Thank you.",
+            "revisions": []
+        },
+        {
+            "start": 1065.79,
+            "end": 1087.67,
+            "speaker": "Speaker-1",
+            "content": "And that Nathan posted that in the chat. But you know, our, our motto is you connect with one tech bridge, you connect with them all. So because we we all want to get you, you know, routed to the right, you know, place. And I don't know Daniel, if probably send send Ben some of the information on the accelerator just for his awareness for future consideration.",
+            "revisions": []
+        },
+        {
+            "start": 1088.8,
+            "end": 1089.32,
+            "speaker": "Speaker-1",
+            "content": "Yeah, great.",
+            "revisions": []
+        },
+        {
+            "start": 1089.55,
+            "end": 1090.31,
+            "speaker": "Speaker-1",
+            "content": "We're running.",
+            "revisions": []
+        },
+        {
+            "start": 1090.63,
+            "end": 1092.47,
+            "speaker": "Speaker-3",
+            "content": "I will send over the.",
+            "revisions": []
+        },
+        {
+            "start": 1092.59,
+            "end": 1100.59,
+            "speaker": "Speaker-3",
+            "content": "One pager for accelerator. Towards the end of the week I got some other people working on getting back ready to speed.",
+            "revisions": []
+        },
+        {
+            "start": 1108.67,
+            "end": 1129.03,
+            "speaker": "Speaker-4",
+            "content": "That was an amazing presentation. I'm, I'm glad to hear that you guys are doing so well, you know, on your own, you guys have really cool technology. In fact, when I was little, I just wanted to be an astronaut because I thought space is really good and there's a bookstore and I got this big like book on space and stuff. But but then I found out what it takes to be an astronaut in the way. OK.",
+            "revisions": []
+        },
+        {
+            "start": 1130.72,
+            "end": 1137.92,
+            "speaker": "Speaker-4",
+            "content": "OK. But anyway, I just wanted to share a platform that we're using to keep track of the small businesses that.",
+            "revisions": []
+        },
+        {
+            "start": 1138.47,
+            "end": 1162.63,
+            "speaker": "Speaker-4",
+            "content": "We come across, it's called Outrider. It's a way for small businesses to I guess. So it's a platform where government personnel and industry can meet and, and collaborate. So right now it's it, it makes government and and industry collaboration really quick, easy and simple.",
+            "revisions": []
+        },
+        {
+            "start": 1163.72,
+            "end": 1168.08,
+            "speaker": "Speaker-4",
+            "content": "And just it accelerates the adoption of private innovation and national security.",
+            "revisions": []
+        },
+        {
+            "start": 1169.67,
+            "end": 1193.15,
+            "speaker": "Speaker-4",
+            "content": "And yeah, there's on there you're able to see like additional funding opportunities, talk to, let's say you met Troy at A at an event or something. And instead of, you know, getting e-mail and whatever, he's like, hey, just meet me on that writer. Just send me a chat on there and we're able to collaborate through there. Oh, OK. Yeah. So if if you have any time.",
+            "revisions": []
+        },
+        {
+            "start": 1193.96,
+            "end": 1199.28,
+            "speaker": "Speaker-4",
+            "content": "Or you have some time this week or next week, we would really appreciate you going on there and filling out.",
+            "revisions": []
+        },
+        {
+            "start": 1200.19,
+            "end": 1215.63,
+            "speaker": "Speaker-4",
+            "content": "Your scout card, this is kind of like a small one page resume for your company that government personnel can can look at and easily, you know, see what you guys are up to. So yeah, we would really appreciate that and thank you.",
+            "revisions": []
+        },
+        {
+            "start": 1216.42,
+            "end": 1221.5,
+            "speaker": "Speaker-2",
+            "content": "Yeah, now thanks for sharing this. Yeah, I'll, I'll make, I'll make that account shortly. Awesome.",
+            "revisions": []
+        },
+        {
+            "start": 1221.5,
+            "end": 1238.9,
+            "speaker": "Speaker-3",
+            "content": "And so then if you could send me over your pitch deck, I'll forward it over to the lead PM for NASA. And Noah again, I'm, I'm not sure if, if they will be at the event tomorrow, but just so they are aware of the kind of work that, that you do if they have a chance to go over your, your debt quickly.",
+            "revisions": []
+        },
+        {
+            "start": 1238.9,
+            "end": 1241.94,
+            "speaker": "Speaker-2",
+            "content": "Yeah, absolutely. Cool. Thanks, man.",
+            "revisions": []
+        },
+        {
+            "start": 1244.23,
+            "end": 1245.99,
+            "speaker": "Speaker-3",
+            "content": "Directory. Anything else from you?",
+            "revisions": []
+        },
+        {
+            "start": 1245.99,
+            "end": 1249.87,
+            "speaker": "Speaker-1",
+            "content": "No, this is great. Been really pleased with what you're doing and can keep it up.",
+            "revisions": []
+        },
+        {
+            "start": 1251.86,
+            "end": 1258.86,
+            "speaker": "Speaker-2",
+            "content": "Awesome. Yeah, yeah. So meet you guys and yeah, yeah, I'll make the account. I'll send over the the deck and then.",
+            "revisions": []
+        },
+        {
+            "start": 1259.35,
+            "end": 1261.59,
+            "speaker": "Speaker-2",
+            "content": "The event you can form me.",
+            "revisions": []
+        },
+        {
+            "start": 1262.71,
+            "end": 1271.47,
+            "speaker": "Speaker-2",
+            "content": "And have you been partnering at all with any of the, you know all GPS companies you look exploring that at all?",
+            "revisions": []
+        },
+        {
+            "start": 1273.43,
+            "end": 1277.11,
+            "speaker": "Speaker-2",
+            "content": "I'd say we're we've come to consider it.",
+            "revisions": []
+        },
+        {
+            "start": 1277.46,
+            "end": 1307.38,
+            "speaker": "Speaker-2",
+            "content": "We're pretty early, so that's OK. The one that's really tough, the PNC stuff is the project that we started just last month with as the phase one effort that we just started. So we're kind of still really ramping up in that space. But I definitely see that as a big opportunity down the line both for, yeah, the communications and then like all PNT where this is really kind of one of those things that it's, it's pretty tough to engineer around. And so being able to kind of forecast and characterize the environment, it's pretty, pretty good because having redundant systems and stuff. And so I think there's really a big play.",
+            "revisions": []
+        },
+        {
+            "start": 1307.62,
+            "end": 1314.54,
+            "speaker": "Speaker-2",
+            "content": "There as far as you know how they were going to be operating kind of future PNC type systems to essentially work around it.",
+            "revisions": []
+        },
+        {
+            "start": 1314.54,
+            "end": 1333.82,
+            "speaker": "Speaker-2",
+            "content": "OK, cool. We've got another company that we work with locally that's an GPS PNT. So it might be, you know, they're they're kind of in the silver phase two realm as well. So it might as you guys mature, it might be an opportunity for us to make the introduction, see if there might be ways to partner work together, things like that.",
+            "revisions": []
+        },
+        {
+            "start": 1335.27,
+            "end": 1336.79,
+            "speaker": "Speaker-2",
+            "content": "Yeah, definitely, definitely. That'd be great.",
+            "revisions": []
+        },
+        {
+            "start": 1340.52,
+            "end": 1344.72,
+            "speaker": "Speaker-3",
+            "content": "Awesome. Well, Benjamin, any other questions for us or comments concerns?",
+            "revisions": []
+        },
+        {
+            "start": 1344.72,
+            "end": 1359.32,
+            "speaker": "Speaker-2",
+            "content": "No, no, yeah, this was this was really interesting to learn about. And yeah, thanks so much for taking the time to chat. Yeah. Looking forward to, yeah, the the event invite and any, any other folks that you think I should connect with time on the East Coast?",
+            "revisions": []
+        },
+        {
+            "start": 1359.32,
+            "end": 1361.72,
+            "speaker": "Speaker-2",
+            "content": "As well. Yeah, great.",
+            "revisions": []
+        },
+        {
+            "start": 1361.72,
+            "end": 1366.32,
+            "speaker": "Speaker-3",
+            "content": "Absolutely. Of course, yes. And Ben, definitely.",
+            "revisions": []
+        },
+        {
+            "start": 1366.87,
+            "end": 1370.83,
+            "speaker": "Speaker-3",
+            "content": "Definitely speak with the guest speaker tomorrow from Naval X.",
+            "revisions": []
+        },
+        {
+            "start": 1371.34,
+            "end": 1376.14,
+            "speaker": "Speaker-3",
+            "content": "Definitely speak with him after his spiel tomorrow. That's your best entry point in.",
+            "revisions": []
+        },
+        {
+            "start": 1376.14,
+            "end": 1379.74,
+            "speaker": "Speaker-2",
+            "content": "OK, well I'll I'll make a note of that and be sure to.",
+            "revisions": []
+        },
+        {
+            "start": 1379.74,
+            "end": 1383.34,
+            "speaker": "Speaker-3",
+            "content": "Do it. Yeah, Awesome. Great. Thanks guys. Alright, take, take.",
+            "revisions": []
+        },
+        {
+            "start": 1383.34,
+            "end": 1384.86,
+            "speaker": "Speaker-1",
+            "content": "Care, have a great day. Bye bye bye.",
+            "revisions": []
+        },
+        {
+            "start": 1384.86,
+            "end": 1386.46,
+            "speaker": "Unknown",
+            "content": "",
+            "revisions": []
+        }
+    ]
+}
