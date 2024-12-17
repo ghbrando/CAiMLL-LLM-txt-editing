@@ -5,22 +5,28 @@
             "start": 0.19,
             "end": 2.23,
             "speaker": "Speaker-1",
-            "content": "Park Inland Empire Tech Bridge director.",
-            "revisions": []
+            "content": "Troy Clarke Inland Empire Tech Bridge director.",
+            "revisions": [
+                ["Park", "Troy Clarke,"]
+            ]
         },
         {
             "start": 4.04,
             "end": 4.8,
             "speaker": "Speaker-1",
-            "content": "John Shearer.",
-            "revisions": []
+            "content": "John Shearer, EIR.",
+            "revisions": [
+                ["", "EIR"]
+            ]
         },
         {
             "start": 7.88,
             "end": 10.24,
             "speaker": "Speaker-2",
-            "content": "Nathan Stewart, Emily Empire. Tech Bridge.",
-            "revisions": []
+            "content": "Nathan Stewart, Inland Empire Tech Bridge.",
+            "revisions": [
+                ["Emily", "Inland"]
+            ]
         },
         {
             "start": 10.24,
@@ -33,8 +39,10 @@
             "start": 14.91,
             "end": 19.87,
             "speaker": "Speaker-4",
-            "content": "I've had some good meetings and trying to help some of the Crucible alums great.",
-            "revisions": []
+            "content": "Pretty well. I've had some good meetings and trying to help some of the Crucible alums great.",
+            "revisions": [
+                ["", "Pretty well."]
+            ]
         },
         {
             "start": 22.92,
@@ -131,8 +139,10 @@
             "start": 170.52,
             "end": 175.36,
             "speaker": "Speaker-1",
-            "content": "Yeah, you've got at your facility at Sea Search.",
-            "revisions": []
+            "content": "Yeah, you've got at your facility at CE-CERT.",
+            "revisions": [
+                ["Sea Search", "CE-CERT"]
+            ]
         },
         {
             "start": 176.51,
@@ -159,8 +169,10 @@
             "start": 195.12,
             "end": 208.16,
             "speaker": "Speaker-1",
-            "content": "Yeah. So and I'll, I'll refer him. Dean, if you can make a note for me to refer Doctor Tom from UC Riverside C search to John, that'd be great. Thanks. Yeah.",
-            "revisions": []
+            "content": "Yeah. So and I'll, I'll refer him. Dean, if you can make a note for me to refer Doctor Tom from UC Riverside CE-CERT to John, that'd be great. Thanks. Yeah.",
+            "revisions": [
+                ["C search", "CE-CERT"]
+            ]
         },
         {
             "start": 208.16,
@@ -173,8 +185,10 @@
             "start": 211.36,
             "end": 216.48,
             "speaker": "Speaker-1",
-            "content": "I suppose. Yep. And he knows the DoD space, you know, he worked there. He's done a QMD sensing.",
-            "revisions": []
+            "content": "I suppose. Yep. And he knows the DoD space, you know, he worked there. He's done a AQMD sensing.",
+            "revisions": [
+                ["QMD","AQMD"]
+            ]
         },
         {
             "start": 217.23,
@@ -244,14 +258,18 @@
             "end": 278.24,
             "speaker": "Speaker-1",
             "content": "Jean.",
-            "revisions": []
+            "revisions": [
+                ["Jean", "John"]
+            ]
         },
         {
             "start": 278.56,
             "end": 284.44,
             "speaker": "Speaker-6",
             "content": "Daniel Delgado from bedtime. OK to record the session.",
-            "revisions": []
+            "revisions": [
+                ["bedtime","FedTech"]
+            ]
         },
         {
             "start": 287.56,
@@ -292,8 +310,10 @@
             "start": 298.39,
             "end": 313.43,
             "speaker": "Speaker-1",
-            "content": "OK, All right. So that was just enough. I don't know if you heard that was that was Spectre ease that they were talking about that John was talking about. So cool. So that's good. And so any others that you any other Crucible alumni that you were working with?",
-            "revisions": []
+            "content": "OK, All right. So that was just enough. I don't know if you heard that was that was Spectra E that they were talking about that John was talking about. So cool. So that's good. And so any others that you any other Crucible alumni that you were working with?",
+            "revisions": [
+                ["Spectre ease", "Spectra E"]
+            ]
         },
         {
             "start": 313.43,
@@ -306,8 +326,10 @@
             "start": 316.84,
             "end": 327.48,
             "speaker": "Speaker-4",
-            "content": "There, there. There's a few and I'm blanking. Oh, Axotech, Yeah, which is related. It's kind of based on the same, same inventor.",
-            "revisions": []
+            "content": "There, there. There's a few and I'm blanking. Oh, AxoTech, Yeah, which is related. It's kind of based on the same, same inventor.",
+            "revisions": [
+                ["Axotech","AxoTech"]
+            ]
         },
         {
             "start": 328.39,
@@ -320,8 +342,10 @@
             "start": 333.24,
             "end": 346.0,
             "speaker": "Speaker-4",
-            "content": "They're, they're kind of in the same boat as Inspector E is, is, you know, trying to figure out exactly what their next steps are from, you know, are they going to build a prototype? Who would, who would build it? Where would it be built?",
-            "revisions": []
+            "content": "They're, they're kind of in the same boat as Spectra E is, is, you know, trying to figure out exactly what their next steps are from, you know, are they going to build a prototype? Who would, who would build it? Where would it be built?",
+            "revisions": [
+                ["Inspector E", "Spectra E"]
+            ]
         },
         {
             "start": 348.12,
@@ -355,15 +379,19 @@
             "start": 398.32,
             "end": 411.6,
             "speaker": "Speaker-4",
-            "content": "Then we have to work in advance on who's going to own the IP and is it an STTR type of approach or is it a silver approach. And you know, our hope is that we actually.",
-            "revisions": []
+            "content": "Then we have to work in advance on who's going to own the IP and is it an STTR type of approach or is it a SBIR approach. And you know, our hope is that we actually.",
+            "revisions": [
+                ["silver", "SIBR"]
+            ]
         },
         {
             "start": 413.8,
             "end": 417.88,
             "speaker": "Speaker-4",
-            "content": "Get a team together that's more local and and ideally like a fathom works.",
-            "revisions": []
+            "content": "Get a team together that's more local and and ideally like at FATHOMWERX.",
+            "revisions": [
+                ["fathom works", "FATHOMWERX"]
+            ]
         },
         {
             "start": 419.84,
@@ -411,7 +439,7 @@
             "start": 479.12,
             "end": 507.16,
             "speaker": "Speaker-4",
-            "content": "There are not as far along as I thought they would be is what I, you know what I'm finding That's OK. Yeah, yeah, Axotech and even with like Spectra, he's right. We got to go back and kind of get the house in order from the business standpoint, from the licensing standpoint, from the resources. And how do you how do you put a, you know, a real entity or commercial entity around it? And that's fine. It's just I'm basically saying what what I'm finding out is.",
+            "content": "There are not as far along as I thought they would be is what I, you know what I'm finding That's OK. Yeah, yeah, Axotech and even with like Spectra E, he's right. We got to go back and kind of get the house in order from the business standpoint, from the licensing standpoint, from the resources. And how do you how do you put a, you know, a real entity or commercial entity around it? And that's fine. It's just I'm basically saying what what I'm finding out is.",
             "revisions": []
         },
         {
@@ -439,8 +467,10 @@
             "start": 522.99,
             "end": 539.27,
             "speaker": "Speaker-5",
-            "content": "Characteristic for Epic SBDC is that we're in the extreme hand holding business anyway. So that's that's why even benches from Berkeley, UCLAUCSD, Irvine and so forth, they come to us because they they need that personalized individualized attention. So.",
-            "revisions": []
+            "content": "Characteristic for Epic SBDC is that we're in the extreme hand holding business anyway. So that's that's why even benches from Berkeley, UCLA, UCSD, Irvine and so forth, they come to us because they they need that personalized individualized attention. So.",
+            "revisions": [
+                ["UCLAUCSD", "UCLA, UCSD"]
+            ]
         },
         {
             "start": 540.44,
@@ -481,15 +511,19 @@
             "start": 557.55,
             "end": 574.11,
             "speaker": "Speaker-5",
-            "content": "Exactly. So we also have Neuramax and so I have Philip Tofan and Isabella Bart who are advising them, but I'm also doing a critical review of their SPIR proposal.",
-            "revisions": []
+            "content": "Exactly. So we also have Neuromax and so I have Philip Tofan and Isabella Bart who are advising them, but I'm also doing a critical review of their SPIR proposal.",
+            "revisions": [
+                ["Neuramax", "NeuroMax"]
+            ]
         },
         {
             "start": 574.87,
             "end": 582.51,
             "speaker": "Speaker-5",
-            "content": "So, umm, and, and for everybody else, Neuromax is in the land side prediction. Yes, right. And we'll see.",
-            "revisions": []
+            "content": "So, umm, and, and for everybody else, NeuroMax is in the land slide prediction. Yes, right. And we'll see.",
+            "revisions": [
+                [ ["Neuromax", "NeuroMax"]
+            ]
         },
         {
             "start": 584.32,
@@ -523,8 +557,10 @@
             "start": 622.55,
             "end": 634.99,
             "speaker": "Speaker-1",
-            "content": "Go. Excellent. I wonder if it'd be helpful for us to compile either UCR or FedEx. Compile a list of which companies you're helping and who their advisors are just so we see it and working.",
-            "revisions": []
+            "content": "Go. Excellent. I wonder if it'd be helpful for us to compile either UCR or FedTech. Compile a list of which companies you're helping and who their advisors are just so we see it and working.",
+            "revisions": [
+                ["FedEx","FedTech"]
+            ]
         },
         {
             "start": 635.15,
@@ -642,8 +678,10 @@
             "start": 734.04,
             "end": 756.84,
             "speaker": "Speaker-4",
-            "content": "If there's kind of a, you know, AIII guess a backward looking and forward-looking on who or potential candidates to help out, because you may have somebody that even through Naval X or encenter or something that they could use this resource. And you know, because I've I've got some bandwidth, I'm really just helping those too.",
-            "revisions": []
+            "content": "If there's kind of a, you know, a I guess a backward looking and forward-looking on who or potential candidates to help out, because you may have somebody that even through NavalX or encenter or something that they could use this resource. And you know, because I've I've got some bandwidth, I'm really just helping those too.",
+            "revisions": [
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 758.11,
@@ -656,8 +694,10 @@
             "start": 769.59,
             "end": 783.03,
             "speaker": "Speaker-4",
-            "content": "Yeah, at the moment I'm I'm starting to get to learn, I mean get the the low down on all of our previous standards and starting to get to know new ones. But I'll get to what Daniel and and some of our other guys to see if there's some that we can pass your way since you have that pain with.",
-            "revisions": []
+            "content": "Yeah, at the moment I'm I'm starting to get to learn, I mean get the the low down on all of our previous standards and starting to get to know new ones. But I'll get to what Daniel and and some of our other guys to see if there's some that we can pass your way since you have that bandwidth.",
+            "revisions": [
+                ["pain with", "bandwidth"]
+            ]
         },
         {
             "start": 785.16,
@@ -705,15 +745,19 @@
             "start": 860.08,
             "end": 864.0,
             "speaker": "Speaker-5",
-            "content": "They are advancing, so to speak, to Epic SBDC.",
-            "revisions": []
+            "content": "They are advancing, so to speak, to EPIC SBDC.",
+            "revisions": [
+                ["Epic SBDC", "EPIC SBDC"]
+            ]
         },
         {
             "start": 864.47,
             "end": 877.75,
             "speaker": "Speaker-5",
-            "content": "But they're going to continue to receive business and market development support, including the raising of capital or corporate farmerships, those types of things. So we would still be heavily involved in the development.",
-            "revisions": []
+            "content": "But they're going to continue to receive business and market development support, including the raising of capital or corporate partnerships, those types of things. So we would still be heavily involved in the development.",
+            "revisions": [
+                ["farmerships", "partnerships"]
+            ]
         },
         {
             "start": 877.75,
@@ -733,8 +777,10 @@
             "start": 908.07,
             "end": 923.79,
             "speaker": "Speaker-5",
-            "content": "Well, one of the things that we do John, is that not that I'm being successful at it, by the way, anyway, I, I, I try to manage Epic SPDC as if we were a semi professional consultancy firm. This goes back to my.",
-            "revisions": []
+            "content": "Well, one of the things that we do John, is that not that I'm being successful at it, by the way, anyway, I, I, I try to manage EPIC SPDC as if we were a semi professional consultancy firm. This goes back to my.",
+            "revisions": [
+                ["Epic SBDC", "EPIC SBDC"]
+            ]
         },
         {
             "start": 925.19,
@@ -775,8 +821,10 @@
             "start": 987.79,
             "end": 1005.31,
             "speaker": "Speaker-7",
-            "content": "Martin, I had a chance to meet with Eric Gosin. Yeah, great. Last week. I don't think he knows that we have these calls because he was wondering like, what is our relationship with Martin and things like that? I was like, yeah, well, we're still, we're still talking to Martin. Figure this one out.",
-            "revisions": []
+            "content": "Martin, I had a chance to meet with Eric Gosink. Yeah, great. Last week. I don't think he knows that we have these calls because he was wondering like, what is our relationship with Martin and things like that? I was like, yeah, well, we're still, we're still talking to Martin. Figure this one out.",
+            "revisions": [
+                ["Eric Gosin", "Eric Gosink"]
+            ]
         },
         {
             "start": 1005.31,
@@ -817,8 +865,11 @@
             "start": 1034.39,
             "end": 1059.11,
             "speaker": "Speaker-5",
-            "content": "Eric Gosink is one of my key advisors along with John Scheer. Eric Eric is is one of my 19 Eirs and he is also responsible for helping me with the SBIR conference that I want to chat with you about the system a minute. But he also is responsible for managing our life side incubator on kids.",
-            "revisions": []
+            "content": "Eric Gosink is one of my key advisors along with John Shearer. Eric Eric is is one of my 19 EIRs and he is also responsible for helping me with the SBIR conference that I want to chat with you about the system a minute. But he also is responsible for managing our life side incubator on kids.",
+            "revisions": [
+                ["John Scheer", "John Shearer"]
+                ["Eirs", "EIRs"]
+            ]
         },
         {
             "start": 1059.87,
@@ -880,8 +931,10 @@
             "start": 1096.91,
             "end": 1121.95,
             "speaker": "Speaker-5",
-            "content": "And it's with the Army, Navy and Air Force, Air Force in the in the name of APEX out of date and it's an hour and a half. And I wondered if you and John are John would have an interest in being the facilitator, the moderators of that of that panel. Would that be of any interest? I think Troy, you've already been involved in the correspondence there.",
-            "revisions": []
+            "content": "And it's with the Army, Navy and Air Force, Air Force in the in the name of APEX out of Dayton and it's an hour and a half. And I wondered if you and John our John would have an interest in being the facilitator, the moderators of that of that panel. Would that be of any interest? I think Troy, you've already been involved in the correspondence there.",
+            "revisions": [
+                ["date", "Dayton"]
+            ]
         },
         {
             "start": 1123.12,
@@ -922,8 +975,13 @@
             "start": 1167.79,
             "end": 1178.95,
             "speaker": "Speaker-5",
-            "content": "A5 workshops, maybe 6 that are also going to be in person and we're hosting an AC SERP or at the Barnes facility right next door to see.",
-            "revisions": []
+            "content": "5 workshops, maybe 6 that are also going to be in person and we're hosting an CE-CERT or at the Bourns facility right next door to CE-CERT.",
+            "revisions": [
+                ["A5", "5"]
+                ["AC SERP", "CE-CERT"]
+                ["Barnes", "Bourns"]
+                ["see", "CE-CERT"]
+            ]
         },
         {
             "start": 1181.0,
@@ -936,7 +994,7 @@
             "start": 1186.28,
             "end": 1197.08,
             "speaker": "Speaker-5",
-            "content": "By Misty and Judy, where apparently I guess Born Rents rents this huge room to a church every Sunday, but otherwise it just sits there.",
+            "content": "By Misty and Judy, where apparently I guess Bourn rents rents this huge room to a church every Sunday, but otherwise it just sits there.",
             "revisions": []
         },
         {
@@ -985,15 +1043,20 @@
             "start": 1223.02,
             "end": 1233.14,
             "speaker": "Speaker-1",
-            "content": "So I would love to do it, but I'm going to be, I'm going to be at the Tech Bridge Quarterly in Newport, RI. So our entire Naval X and Sipper team will be there.",
-            "revisions": []
+            "content": "So I would love to do it, but I'm going to be, I'm going to be at the Tech Bridge Quarterly in Newport, RI. So our entire NavalX and SBIR team will be there.",
+            "revisions": [
+                ["Naval X", "NavalX"]
+                ["Sipper", "SBIR"]
+            ]
         },
         {
             "start": 1235.47,
             "end": 1240.11,
             "speaker": "Speaker-1",
-            "content": "But I think we've got shoddy. Is he confirmed for that or different?",
-            "revisions": []
+            "content": "But I think we've got Shadi. Is he confirmed for that or different?",
+            "revisions": [
+                ["shoddy", "Shadi"]
+            ]
         },
         {
             "start": 1240.9,
@@ -1006,8 +1069,10 @@
             "start": 1243.1,
             "end": 1261.9,
             "speaker": "Speaker-5",
-            "content": "OK, that is the one. Yeah. So shoddy would be terrific. Yeah. He's been involved with this in the past. And then John Shearer, if you're OK with with working with us there as well, you'd be our guy. I could certainly help out. OK.",
-            "revisions": []
+            "content": "OK, that is the one. Yeah. So Shadi would be terrific. Yeah. He's been involved with this in the past. And then John Shearer, if you're OK with with working with us there as well, you'd be our guy. I could certainly help out. OK.",
+            "revisions": [
+                ["shoddy", "Shadi"]
+            ]
         },
         {
             "start": 1261.9,
@@ -1048,8 +1113,10 @@
             "start": 1284.31,
             "end": 1296.03,
             "speaker": "Speaker-7",
-            "content": "And we can we can support to make sure that like the material that you will need for bed tech to let them know like what our programs can do so that they know once they get all that information about the SDAR.",
-            "revisions": []
+            "content": "And we can we can support to make sure that like the material that you will need for FedTech to let them know like what our programs can do so that they know once they get all that information about the SDAR.",
+            "revisions": [
+                ["bed tech", "FedTech"]
+            ]
         },
         {
             "start": 1296.03,
@@ -1069,15 +1136,19 @@
             "start": 1303.58,
             "end": 1305.94,
             "speaker": "Speaker-4",
-            "content": "Is is Ensign involved in this at all?",
-            "revisions": []
+            "content": "Is is NSIN involved in this at all?",
+            "revisions": [
+                ["Ensign","NSIN"]
+            ]
         },
         {
             "start": 1308.03,
             "end": 1332.95,
             "speaker": "Speaker-1",
-            "content": "Not that I'm aware of, but we can try and get either Raul Singh out of LA or not likely to get Jesse guy about a San Diego just because he's the national director now and just he's super busy. But maybe Raul saying he's a former Marine on venture capital. Guys been around. If you need an additional participant or potentially somebody to moderate or what have you, we could reach out to him.",
-            "revisions": []
+            "content": "Not that I'm aware of, but we can try and get either Rahul Singh out of LA or not likely to get Jesse Gipe about a San Diego just because he's the national director now and just he's super busy. But maybe Rahul saying he's a former Marine on venture capital. Guys been around. If you need an additional participant or potentially somebody to moderate or what have you, we could reach out to him.",
+            "revisions": [
+                ["Jesse guy", "Jesse Gipe"]
+            ]
         },
         {
             "start": 1334.97,
@@ -1090,8 +1161,10 @@
             "start": 1341.45,
             "end": 1351.09,
             "speaker": "Speaker-1",
-            "content": "A role for them, OK, All right. Dina, make an action item for me to introduce Raul Singh to Martin and John and the UCR team, OK.",
-            "revisions": []
+            "content": "A role for them, OK, All right. DINA, make an action item for me to introduce Rahul Singh to Martin and John and the UCR team, OK.",
+            "revisions": [
+                ["Dina", "DINA"]
+            ]
         },
         {
             "start": 1353.69,
@@ -1104,8 +1177,10 @@
             "start": 1356.3,
             "end": 1368.18,
             "speaker": "Speaker-4",
-            "content": "Yeah, I was just thinking having that, that connection with Ensign, that might help actually on some of the recruitment, like, I don't know, Daniel, you sent it on an e-mail trying to find like, well, how do you find candidates on the front end?",
-            "revisions": []
+            "content": "Yeah, I was just thinking having that, that connection with NSIN, that might help actually on some of the recruitment, like, I don't know, Daniel, you sent it on an e-mail trying to find like, well, how do you find candidates on the front end?",
+            "revisions": [
+                ["Ensign","NSIN"]
+            ]
         },
         {
             "start": 1369.91,
@@ -1118,8 +1193,10 @@
             "start": 1384.58,
             "end": 1403.26,
             "speaker": "Speaker-4",
-            "content": "Fill the prime the pump, so to speak. And then also you have, you know, the engine might have specific use cases that they're trying to solve. And so then we can help find my daddy. Here's here's here's some assets here at San Diego State or at UC Berkeley or something that I can fill the.",
-            "revisions": []
+            "content": "Fill the prime the pump, so to speak. And then also you have, you know, the NSIN might have specific use cases that they're trying to solve. And so then we can help find my daddy. Here's here's here's some assets here at San Diego State or at UC Berkeley or something that I can fill the.",
+            "revisions": [
+                ["engine","NSIN"]
+            ]
         },
         {
             "start": 1403.26,
@@ -1132,8 +1209,10 @@
             "start": 1406.38,
             "end": 1414.1,
             "speaker": "Speaker-7",
-            "content": "Yeah, terrific. John, just if you didn't know and maybe you weren't on one of our meetings, but Instant does have an event where.",
-            "revisions": []
+            "content": "Yeah, terrific. John, just if you didn't know and maybe you weren't on one of our meetings, but NSIN does have an event where.",
+            "revisions": [
+                ["Instant","NSIN"]
+            ]
         },
         {
             "start": 1414.7,
@@ -1230,8 +1309,10 @@
             "start": 1546.55,
             "end": 1560.95,
             "speaker": "Speaker-5",
-            "content": "I appreciate your support, John. John S And then the confirming shot is involvement and that's, that's already been confirmed. So that, that's terrific. We're ready to party and I look forward very much to learning more about and meeting Anson.",
-            "revisions": []
+            "content": "I appreciate your support, John. John S And then the confirming shot is involvement and that's, that's already been confirmed. So that, that's terrific. We're ready to party and I look forward very much to learning more about and meeting NSIN.",
+            "revisions": [
+                ["Anson","NSIN"]
+            ]
         },
         {
             "start": 1564.19,
