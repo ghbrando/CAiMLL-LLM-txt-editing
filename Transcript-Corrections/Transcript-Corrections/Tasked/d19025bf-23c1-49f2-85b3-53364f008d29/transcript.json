@@ -522,7 +522,7 @@
             "speaker": "Speaker-5",
             "content": "So, umm, and, and for everybody else, NeuroMax is in the land slide prediction. Yes, right. And we'll see.",
             "revisions": [
-                [ ["Neuromax", "NeuroMax"]
+                 ["Neuromax", "NeuroMax"]
             ]
         },
         {
@@ -867,7 +867,7 @@
             "speaker": "Speaker-5",
             "content": "Eric Gosink is one of my key advisors along with John Shearer. Eric Eric is is one of my 19 EIRs and he is also responsible for helping me with the SBIR conference that I want to chat with you about the system a minute. But he also is responsible for managing our life side incubator on kids.",
             "revisions": [
-                ["John Scheer", "John Shearer"]
+                ["John Scheer", "John Shearer"],
                 ["Eirs", "EIRs"]
             ]
         },
@@ -977,9 +977,9 @@
             "speaker": "Speaker-5",
             "content": "5 workshops, maybe 6 that are also going to be in person and we're hosting an CE-CERT or at the Bourns facility right next door to CE-CERT.",
             "revisions": [
-                ["A5", "5"]
-                ["AC SERP", "CE-CERT"]
-                ["Barnes", "Bourns"]
+                ["A5", "5"],
+                ["AC SERP", "CE-CERT"],
+                ["Barnes", "Bourns"],
                 ["see", "CE-CERT"]
             ]
         },
@@ -1045,7 +1045,7 @@
             "speaker": "Speaker-1",
             "content": "So I would love to do it, but I'm going to be, I'm going to be at the Tech Bridge Quarterly in Newport, RI. So our entire NavalX and SBIR team will be there.",
             "revisions": [
-                ["Naval X", "NavalX"]
+                ["Naval X", "NavalX"],
                 ["Sipper", "SBIR"]
             ]
         },

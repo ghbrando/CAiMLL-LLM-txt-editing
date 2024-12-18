@@ -5,15 +5,20 @@
             "start": 0.51,
             "end": 4.55,
             "speaker": "Speaker-1",
-            "content": "When they have so I'm Rick Tar, if you could say your name Kevin.",
-            "revisions": []
+            "content": "When they have so I'm Rick Tar, if you could say your name Kevin, and I am Esther Lee",
+            "revisions": [
+                ["Tar", "Tarr"]
+            ]
         },
         {
             "start": 8.24,
             "end": 18.8,
             "speaker": "Speaker-1",
-            "content": "Great. So just for context and background, I'm Retara. I'm with the Naval X Southern Maryland Tech bridge. So Naval X is outreach arm in the Navy.",
-            "revisions": []
+            "content": "Great. So just for context and background, I'm Rick Tarr. I'm with the NavalX Southern Maryland Tech bridge. So NavalX is an outreach arm in the Navy.",
+            "revisions": [
+                ["Retara", "Rick Tarr"],
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 20.59,
@@ -40,7 +45,7 @@
             "start": 33.6,
             "end": 41.68,
             "speaker": "Speaker-2",
-            "content": "A fit. So my name is tomorrow again. I'm a CEO, co-founder of Multi Technique. It's a spin out of the University of Texas here in Austin, TX.",
+            "content": "A fit. So uhh my name again. I'm a CEO, co-founder of Multi Technique. It's a spin out of the University of Texas here in Austin, TX.",
             "revisions": []
         },
         {
@@ -54,8 +59,10 @@
             "start": 52.48,
             "end": 56.48,
             "speaker": "Speaker-2",
-            "content": "Evability charging stations. The logistics spaces infrastructure.",
-            "revisions": []
+            "content": "Availability charging stations. The logistics spaces infrastructure.",
+            "revisions": [
+                ["Evability", "Availability"]
+            ]
         },
         {
             "start": 58.52,
@@ -82,8 +89,10 @@
             "start": 73.96,
             "end": 74.8,
             "speaker": "Speaker-2",
-            "content": "SPR, this is owner.",
-            "revisions": []
+            "content": "SBR, this is owner.",
+            "revisions": [
+                ["SPR", "SBR"]
+            ]
         },
         {
             "start": 75.71,
@@ -103,8 +112,11 @@
             "start": 96.04,
             "end": 105.92,
             "speaker": "Speaker-2",
-            "content": "Great. But it is kind of in some sense where we're at because we actually have previous SPRS on the private side. So MSFDOE.",
-            "revisions": []
+            "content": "Great. But it is kind of in some sense where we're at because we actually have previous SBR on the private side. So MSF DoD.",
+            "revisions": [
+                ["MSFDOE", "MSF DoD"],
+                ["SPRS", "SBR"]
+            ]
         },
         {
             "start": 106.79,
@@ -124,8 +136,10 @@
             "start": 114.52,
             "end": 123.04,
             "speaker": "Speaker-2",
-            "content": "And it gets more of the demonstration kind of sure. Are you a dual use company? What are the we are what?",
-            "revisions": []
+            "content": "And it gets more of the demonstration kind of sure. Are you a dual use company? What are the we are what? We Are",
+            "revisions": [
+                ["", "We are"]
+            ]
         },
         {
             "start": 123.04,
@@ -145,15 +159,20 @@
             "start": 126.83,
             "end": 154.67,
             "speaker": "Speaker-2",
-            "content": "Any sort of check that's 16 cross electric kind of mobility electric vehicles. So not just automotive, but same buses, trains. So we're working some of those folks to dress their on pack. These are on tax solutions. Okay, so you know, if you look at a battery fire, you look at the ones that you look at Tesla battery fire, what you see, you see the car and then you'll see gas is coming out the white smoke and then all of a sudden, like suddenly, you know, 5 seconds later you see the gas at night and then everything goes.",
-            "revisions": []
+            "content": "Any sort of check that's 16 cross electric kind of mobility electric vehicles. So not just automotive, but think buses, trains. So we're working some of those folks to address their on pack.  Okay, so you know, if you look at a battery fire, you look at the ones that you look at Tesla battery fire, what you see, you see the car and then you'll see gas is coming out the white smoke and then all of a sudden, like suddenly, you know, 5 seconds later you see the gas at night and then everything goes.",
+            "revisions": [
+                ["same", "think"],
+                ["dress", "address"]
+            ]
         },
         {
             "start": 156.2,
             "end": 159.32,
             "speaker": "Speaker-2",
-            "content": "So what we do is we can actually mix up those gaps coming out.",
-            "revisions": []
+            "content": "So what we do is we can actually mix up those gasses coming out.",
+            "revisions": [
+                ["gaps", "gasses"]
+            ]
         },
         {
             "start": 161.83,
@@ -166,8 +185,10 @@
             "start": 176.84,
             "end": 184.44,
             "speaker": "Speaker-2",
-            "content": "Garage no longer is something that's been catch the rest of the cars apart which have happened happened 2 weeks ago right where once.",
-            "revisions": []
+            "content": "Garage no longer is something that's been catch the rest of the cars on fire which have happened happened 2 weeks ago right where once.",
+            "revisions": [
+                ["apart", "on fire"]
+            ]
         },
         {
             "start": 184.44,
@@ -181,7 +202,9 @@
             "end": 193.32,
             "speaker": "Speaker-2",
             "content": "140 cars, I just went boom, boom, boom boom. I don't charge them in the garage.",
-            "revisions": []
+            "revisions": [
+                ["I", "it"]
+            ]
         },
         {
             "start": 194.07,
@@ -208,29 +231,37 @@
             "start": 212.2,
             "end": 221.52,
             "speaker": "Speaker-2",
-            "content": "Once it gets her into that position where it's going right, it takes 8 hours. If you, I mean the other day I was driving over the street and there was a car accident.",
-            "revisions": []
+            "content": "Once it gets into that position where it's going right, it takes 8 hours. If you, I mean the other day I was driving over the street and there was a car accident.",
+            "revisions": [
+                ["her", ""]
+            ]
         },
         {
             "start": 224.92,
             "end": 226.8,
             "speaker": "Speaker-2",
             "content": "Barbara comes in 5 minutes later.",
-            "revisions": []
+            "revisions": [
+                ["Barbara","Fire department"]
+            ]
         },
         {
             "start": 228.87,
             "end": 252.6,
             "speaker": "Speaker-2",
-            "content": "They ought to go to battery happens 8 hours later, we're still sitting there. Is it? Is that yet? Wait, is it out yet? So that's kind of one of the issues that we're seeing. And so we think about. So one of the things we think about from the militants standpoint is batteries are infiltrated, batteries are being adopted, good reasons.",
-            "revisions": []
+            "content": "They ought to go to battery fire happens 8 hours later, we're still sitting there. Is it? Is that yet? Wait, is it out yet? So that's kind of one of the issues that we're seeing. And so we think about. So one of the things we think about from the militants standpoint is batteries are infiltrated, batteries are being adopted, good reasons.",
+            "revisions": [["", "fire"]]
         },
         {
             "start": 252.72,
             "end": 261.56,
             "speaker": "Speaker-2",
-            "content": "Not necessarily these, but just on basis people using ski scooters, right, right, right bases, You know, it was just so how do you manage the?",
-            "revisions": []
+            "content": "Not necessarily these, but just on bases people using ski scooters, right, right, right bases, You know, it was just so how do you manage the?",
+            "revisions": [
+                ["", "just"],
+                ["basis","bases"]
+
+            ]
         },
         {
             "start": 262.35,
@@ -264,8 +295,10 @@
             "start": 320.24,
             "end": 324.92,
             "speaker": "Speaker-1",
-            "content": "Just so that they're not batteries landing on it on chips.",
-            "revisions": []
+            "content": "Just so that they're not batteries landing on it on ships.",
+            "revisions": [
+                ["chips", "ships"]
+            ]
         },
         {
             "start": 325.67,
@@ -278,8 +311,10 @@
             "start": 334.28,
             "end": 344.6,
             "speaker": "Speaker-1",
-            "content": "You know, if your technology would mitigate some of the concerns and I'm not a battery, I mean, I don't know the regulations regarding the batteries on shifts, but.",
-            "revisions": []
+            "content": "You know, if your technology would mitigate some of the concerns and I'm not a battery, I mean, I don't know the regulations regarding the batteries on ships, but.",
+            "revisions": [
+                ["shifts", "ships"]
+            ]
         },
         {
             "start": 346.79,
@@ -341,8 +376,10 @@
             "start": 412.31,
             "end": 423.27,
             "speaker": "Speaker-2",
-            "content": "We have sailors sleeping for sailors working and they have no idea. And now we don't want all of a sudden take our target wherever the ones are, right? That's one application.",
-            "revisions": []
+            "content": "We have sailors sleeping or sailors working and they have no idea. And now we don't want all of a sudden take our target wherever the ones are, right? That's one application.",
+            "revisions": [
+                ["for","or"]
+            ]
         },
         {
             "start": 425.08,
@@ -439,8 +476,10 @@
             "start": 494.63,
             "end": 523.67,
             "speaker": "Speaker-2",
-            "content": "Because you don't want a fire on your way, right? And So what we're thinking about is, well, when those Uabs are on deck in a hangar or stored where they store, I'm not sure where they can store it all over the place. They stored somewhere and the wings fold up, they get stored little thing, right? They're charging or they're being stored or whatever that that's still there. So we can do a little snorkeling unit and basically have a little exhaust snorkel. Just like, I don't know if you've seen them in fire departments where they have their, their fire engines.",
-            "revisions": []
+            "content": "Because you don't want a fire on your way, right? And So what we're thinking about is, well, when those UAVSs are on deck in a hangar or stored where they store, I'm not sure where they can store it all over the place. They stored somewhere and the wings fold up, they get stored little thing, right? They're charging or they're being stored or whatever that that's still there. So we can do a little snorkeling unit and basically have a little exhaust snorkel. Just like, I don't know if you've seen them in fire departments where they have their, their fire engines.",
+            "revisions": [
+                ["UaBs","UAVS"]
+            ]
         },
         {
             "start": 524.51,
@@ -460,8 +499,10 @@
             "start": 528.71,
             "end": 548.07,
             "speaker": "Speaker-2",
-            "content": "Yeah, Yeah. So a little snorkel that basically taxes to our units out of it now is no longer dangerous. So those are kind of simple integrations. We do have a concept that we're working on that we've done some testing, but we can actually put on the actual UAV's or.",
-            "revisions": []
+            "content": "Yeah, Yeah. So a little snorkel that basically attatches to our units out of it now is no longer dangerous. So those are kind of simple integrations. We do have a concept that we're working on that we've done some testing, but we can actually put on the actual UAV's or.",
+            "revisions": [
+                ["taxes","attatches"]
+            ]
         },
         {
             "start": 548.07,
@@ -516,14 +557,16 @@
             "start": 589.4,
             "end": 591.72,
             "speaker": "Speaker-1",
-            "content": "So I mean looked at STR, the STR.",
-            "revisions": []
+            "content": "So I mean looked at STTR, the STTR.",
+            "revisions": [
+                ["STR", "STTR"]
+            ]
         },
         {
             "start": 591.72,
             "end": 594.0,
             "speaker": "Unknown",
-            "content": "We have the art and.",
+            "content": "We have and.",
             "revisions": []
         },
         {
@@ -614,8 +657,10 @@
             "start": 706.76,
             "end": 727.28,
             "speaker": "Speaker-1",
-            "content": "And so they they, but they have goals for bringing in small businesses as part of their members. And there's a specific program addressing mentoring companies to help them get integrated into larger systems from the from the crimes and the OEMs. So there's it's.",
-            "revisions": []
+            "content": "And so they they, but they have goals for bringing in small businesses as part of their members. And there's a specific program addressing mentoring companies to help them get integrated into larger systems from the from the primes and the OEMs. So there's it's.",
+            "revisions": [
+                ["crimes","primes"]
+            ]
         },
         {
             "start": 728.79,
@@ -698,8 +743,10 @@
             "start": 808.6,
             "end": 817.16,
             "speaker": "Speaker-2",
-            "content": "That that 5 minute, one hour is kind of the where you really start getting disparity being an issue like these things. Severity is not really that even the last.",
-            "revisions": []
+            "content": "That that 500 Watt hour is kind of the where you really start getting disparity being an issue like these things. Severity is not really that even the last.",
+            "revisions": [
+                ["5 minute, one hour", "500 Watt hour"]
+            ]
         },
         {
             "start": 817.16,
@@ -733,8 +780,10 @@
             "start": 826.11,
             "end": 833.07,
             "speaker": "Speaker-2",
-            "content": "But it was like pre board or something like yeah, a lot of it is the first ball and the chairs and the chairs back in the.",
-            "revisions": []
+            "content": "But it was like pre board or something like yeah, a lot of it is the phones fall in the chairs and the chairs back in the.",
+            "revisions": [
+                ["first ball and", "phones fall in"]
+            ]
         },
         {
             "start": 835.52,
@@ -782,22 +831,31 @@
             "start": 854.95,
             "end": 865.39,
             "speaker": "Speaker-2",
-            "content": "Run away, don't run away. And then it's a lot of energy and the one the gases are not right. So now you're in this pressurized too.",
-            "revisions": []
+            "content": "Run away, don't run away. And then it's a lot of energy and the one the gases are not right. So now you're in this pressurized tube.",
+            "revisions": [
+                ["too", "tube"]
+            ]
         },
         {
             "start": 867.84,
             "end": 885.56,
             "speaker": "Speaker-2",
-            "content": "You like think about like Covic spreading airplanes and what have you. This is carbon monoxide not good enough. And the other one is that, you know, the yes, this keeps our plane ******** but we've actually done work for like batteries are so violent, I think still so violently. That's why we charge.",
-            "revisions": []
+            "content": "You like think about like Covid spreading airplanes and what have you. This is carbon monoxide not good enough. And the other one is that, you know, the yes, this keeps our plane retardant but we've actually done work for like batteries are so violent, I think still so violently. That's why we charge.",
+            "revisions": [
+                ["Covic","Covid"],
+                ["********","retardant"]
+            ]
         },
         {
             "start": 886.71,
             "end": 912.52,
             "speaker": "Speaker-2",
-            "content": "Whereas like his flame returns and the Misinstein, it prevents the claims from spreading. If the plane is small enough, you can overwhelm like ******. And so the batteries tend to existing more designed for them. And so we're seeing that that's the other potential, like, Oh my gosh. And also once you get that fuel, you know, that's right.",
-            "revisions": []
+            "content": "Whereas like his flame retardant and the misconception, it prevents the flames from spreading. If the plane is small enough, you can overwhelm like retardant And so the batteries tend to existing more designed for them. And so we're seeing that that's the other potential, like, Oh my gosh. And also once you get that fuel, you know, that's right.",
+            "revisions": [
+                ["Misinstein", "misconception"],
+                ["returns", "retardant"],
+                ["claims", "flames"]
+            ]
         },
         {
             "start": 912.56,
@@ -845,15 +903,22 @@
             "start": 954.96,
             "end": 984.48,
             "speaker": "Speaker-2",
-            "content": "One of the first things we're doing is drumming, so we recycle battery storage. So recycle battery the way they're so ones are either PDR, so dam is effective recycled. They're being stored in these 55 gallon drums for COP and they put stuff like birbiculite or sand to kind of make sure that you don't get this fire. Yeah, yeah. The problem is what's happened is there's a little instances where that worked, except now that you have the off gassing, the batteries can be pretty big, right? It's what you know nowadays.",
-            "revisions": []
+            "content": "One of the first things we're doing is drumming, so we recycle battery storage. So recycle battery the way they're so ones are either DDR, so damaged deffective recycled. They're being stored in these 55 gallon drums for GOP and they put stuff like birbiculite or sand to kind of make sure that you don't get this fire. Yeah, yeah. The problem is what's happened is there's a little instances where that worked, except now that you have the off gassing, the batteries can be pretty big, right? It's what you know nowadays.",
+            "revisions": [
+                ["PDR", "DDR"],
+                ["dam is effective","damaged defective"],
+                ["COP", "GOP"]
+
+            ]
         },
         {
             "start": 987.47,
             "end": 1003.31,
             "speaker": "Speaker-2",
-            "content": "Yeah, the gases are released out of the drum, but then fill up the tractor trailer, pulls up the tractor trailer. There's been at least three in the past like six months. And So what? So what we're doing is saying, hey, look.",
-            "revisions": []
+            "content": "Yeah, the gases are released out of the drum, but then fill up the tractor trailer, blows up the tractor trailer. There's been at least three in the past like six months. And So what? So what we're doing is saying, hey, look.",
+            "revisions": [
+                ["pulls","blows"]
+            ]
         },
         {
             "start": 1004.71,
@@ -866,8 +931,10 @@
             "start": 1011.4,
             "end": 1038.0,
             "speaker": "Speaker-2",
-            "content": "The drum goes inside the cabinet if it off gases, we protect the drum and the cabinet. And so we're working with, this is where we work with some manufacturers as we start assembling batteries for cars and stuff. They have to reject a certain number of cells that don't expect. What do you do with that? They go back to recycling, right? As circulatory should have. You actually do it when you got a store for a certain amount of time, you accumulate it for a certain amount of time that you can have critical mass when the truck comes and takes away, right?",
-            "revisions": []
+            "content": "The drum goes inside the cabinet if it off gases, we protect the drum and the cabinet. And so we're working with, this is where we work with some manufacturers as we start assembling batteries for cars and stuff. They have to reject a certain number of cells that don't meet spec. What do you do with that? They go back to recycling, right? As circulatory should have. You actually do it when you got a store for a certain amount of time, you accumulate it for a certain amount of time that you can have critical mass when the truck comes and takes away, right?",
+            "revisions": [
+                ["expect","meet spec"]
+            ]
         },
         {
             "start": 1038.83,
@@ -880,8 +947,10 @@
             "start": 1052.76,
             "end": 1054.4,
             "speaker": "Speaker-2",
-            "content": "Right. It's been in their head, right?",
-            "revisions": []
+            "content": "Right DOT. It's been in their head, right?",
+            "revisions": [
+                ["DOT"]
+            ]
         },
         {
             "start": 1054.4,
@@ -901,8 +970,10 @@
             "start": 1061.47,
             "end": 1078.91,
             "speaker": "Speaker-2",
-            "content": "Right. That's what they're really worried about right now. So they're kind of like there's an issue, but they're not really like, so it's a problem that's showing up more at batteries to become a privilege and result is more prevalent and especially when we try to bring manufacturing back into the US. Great.",
-            "revisions": []
+            "content": "Right. That's what they're really worried about right now. So they're kind of like there's an issue, but they're not really like, so it's a problem that's showing up more at batteries to become a prevalent and result is more prevalent and especially when we try to bring manufacturing back into the US. Great.",
+            "revisions": [
+                ["privilege", "prevalent"]
+            ]
         },
         {
             "start": 1080.63,
