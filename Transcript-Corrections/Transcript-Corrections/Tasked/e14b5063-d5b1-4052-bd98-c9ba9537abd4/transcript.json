@@ -1,0 +1,1099 @@
+{
+    "session_id": "e14b5063-d5b1-4052-bd98-c9ba9537abd4",
+    "transcript": [
+        {
+            "start": 1.15,
+            "end": 6.43,
+            "speaker": "Speaker-1",
+            "content": "My name is Brighton Kresslika, I'm the founder and CEO of Flux Works and I consent to this report.",
+            "revisions": [
+                ["can send", "consent"]
+            ]
+        },
+        {
+            "start": 8.43,
+            "end": 11.19,
+            "speaker": "Speaker-2",
+            "content": "Kevin Larkins, Liberty Tech Bridge and I Consent.",
+            "revisions": []
+        },
+        {
+            "start": 14.51,
+            "end": 14.67,
+            "speaker": "Speaker-2",
+            "content": "Good.",
+            "revisions": []
+        },
+        {
+            "start": 18.2,
+            "end": 18.36,
+            "speaker": "Speaker-2",
+            "content": "Are.",
+            "revisions": []
+        },
+        {
+            "start": 18.36,
+            "end": 31.52,
+            "speaker": "Speaker-3",
+            "content": "We good to go? Yeah, I didn't know if.",
+            "revisions": []
+        },
+        {
+            "start": 31.52,
+            "end": 31.92,
+            "speaker": "Speaker-3",
+            "content": "It was still.",
+            "revisions": []
+        },
+        {
+            "start": 31.92,
+            "end": 36.32,
+            "speaker": "Speaker-2",
+            "content": "Doing stuff, I could tell you a little bit about who I am and what I do and then we.",
+            "revisions": []
+        },
+        {
+            "start": 36.32,
+            "end": 42.8,
+            "speaker": "Speaker-2",
+            "content": "Can go to your company. Yeah, that would be helpful. All right, so I'm uh, I represent the Liberty tech Bridge which is in Philadelphia, PA.",
+            "revisions": [
+                ["AI", "uh, I"]
+            ]
+        },
+        {
+            "start": 43.31,
+            "end": 63.07,
+            "speaker": "Speaker-2",
+            "content": "And there's three commands that come together for that. I personally work at the Naval Air Warfare Center, Aircraft Division, Lakehurst. And our specialty is aircraft launch and recovery equipment, catapults and arresting gears, great and support equipment. So we are basically the carrier at sea, everything on the carrier in terms of naval aviation.",
+            "revisions": []
+        },
+        {
+            "start": 63.43,
+            "end": 83.51,
+            "speaker": "Speaker-2",
+            "content": "Now domain other than flying that that that's all by so you know catapults and arresting gear is what we're famous for yeah our other command is naval surface warfare center Philadelphia yeah their focus is on machine control on the ship okay right so everything from.",
+            "revisions": []
+        },
+        {
+            "start": 85.56,
+            "end": 94.6,
+            "speaker": "Speaker-2",
+            "content": "Propulsion to to culinary to waste disposal, navigation, any kind of machine control. OK.",
+            "revisions": []
+        },
+        {
+            "start": 95.19,
+            "end": 124.03,
+            "speaker": "Speaker-2",
+            "content": "On the ship, not not weapons or just machine control, getting the people to do what it needs to do. And our third command is NIWC, which is naval information warfare center. We have a small contingency in Pennsylvania, in Philadelphia, information warfare, cybersecurity, et cetera. So we come together, I'll focus machinery control, maintenance, sustainability, prognostics, I'm excited everything around that. Now we're one of 18 tech bridges with a, a hub here as well in Austin at the 19. So we're, we're connected.",
+            "revisions": [
+                ["chill", "ship"],
+                ["stable", "naval"],
+                ["NYWIK", "NIWC"],
+                ["worker", "warfare"]
+            ]
+        },
+        {
+            "start": 124.39,
+            "end": 138.35,
+            "speaker": "Speaker-2",
+            "content": "Great, so I can connect if your tech isn't right for me, but it's great for, you know, undersea warfare and we can connect you with that tech bridge and get OK. Awesome. Now I'd love to hear about what your company does and how I can do. Thanks for telling me.",
+            "revisions": []
+        },
+        {
+            "start": 138.35,
+            "end": 138.95,
+            "speaker": "Speaker-1",
+            "content": "About it. So yes.",
+            "revisions": []
+        },
+        {
+            "start": 138.95,
+            "end": 149.19,
+            "speaker": "Speaker-1",
+            "content": "So the Flux works, makes gears like the gears in your car. It's just what's different about ours is we are contactless, we're lubrication free, we just use permanent magnet.",
+            "revisions": [
+                ["flex", "Flux"]
+            ]
+        },
+        {
+            "start": 150.08,
+            "end": 157.52,
+            "speaker": "Speaker-1",
+            "content": "And so we got started actually because of space. We still work with NASA and, you know, a few commercial companies and do the machines all them.",
+            "revisions": []
+        },
+        {
+            "start": 158.59,
+            "end": 177.95,
+            "speaker": "Speaker-1",
+            "content": "But they needed a gearbox for a robot arm for the future lunar Rover that could handle like the most extreme conditions you could ever imagine on the moon and never breakdown. So magnetic years weren't a new idea. The earliest patents date back to 1902, but we just improved the technology to now make it like.",
+            "revisions": [
+                ["years", "gears"]
+            ]
+        },
+        {
+            "start": 178.75,
+            "end": 204.91,
+            "speaker": "Speaker-1",
+            "content": "Cost and weight and volume competitive with mechanical gears. So we're now at the place where most of the time we can pop out the mechanical gear and just put in a passive magnet again place you kind of improve the capabilities. So what I wanted to talk about y'all with y'all today is especially some of the aircraft like maintenance side of things as well as a handful of other applications that you all may think of but.",
+            "revisions": [
+                ["again", "gear in"]
+            ]
+        },
+        {
+            "start": 205.76,
+            "end": 210.44,
+            "speaker": "Speaker-1",
+            "content": "As I understand, the Navy's starting to use more and more like robotic arm type technology.",
+            "revisions": []
+        },
+        {
+            "start": 210.87,
+            "end": 216.67,
+            "speaker": "Speaker-1",
+            "content": "For like aircraft like maintenance, repair, readiness, et cetera.",
+            "revisions": []
+        },
+        {
+            "start": 216.63,
+            "end": 221.59,
+            "speaker": "Speaker-2",
+            "content": "One of the specific focus areas for Liberty Tech Bridge is shipboard robotics.",
+            "revisions": []
+        },
+        {
+            "start": 223.44,
+            "end": 225.36,
+            "speaker": "Speaker-2",
+            "content": "Inequities that nobody else is going to look at because of.",
+            "revisions": []
+        },
+        {
+            "start": 225.36,
+            "end": 244.16,
+            "speaker": "Speaker-1",
+            "content": "The shipboard component. Okay, awesome, awesome. So then I'm excited to be talking with you all. So we partner with a handful of like robot OEMs and academic researchers developing new robot arm technologies. So, so a lot of times when we go in on proposals that have been funded, a lot of times we, you know, we're kind of the Pi and then they, you know, are doing 50% of the work too.",
+            "revisions": []
+        },
+        {
+            "start": 244.55,
+            "end": 257.47,
+            "speaker": "Speaker-1",
+            "content": "We go in together and we say, hey, we're going to take this existing robot arm. We're going to pop out a mechanical gear, pop in our magnetic gear, and voila, you have new capabilities, right? Sometimes like increased dexterity, sometimes like reduced maintenance, sometimes.",
+            "revisions": []
+        },
+        {
+            "start": 259.24,
+            "end": 275.48,
+            "speaker": "Speaker-1",
+            "content": "You know, increased meantime of failure, etcetera. We don't care about corrosive environments, we don't care about dust ingress, we don't care about water ingress because we're contactless, right? So we can actually handle a significant amount. And So what I want to learn was just like what the Navy is working on.",
+            "revisions": []
+        },
+        {
+            "start": 275.83,
+            "end": 285.87,
+            "speaker": "Speaker-1",
+            "content": "Kind of in that that area and you know where you might see a technology that could increase say like safety, reliability, reduced maintenance of like robotic arms.",
+            "revisions": []
+        },
+        {
+            "start": 285.87,
+            "end": 305.83,
+            "speaker": "Speaker-2",
+            "content": "So I mean, the first things that come from my mind and I have some questions about your tech, but it's kind of secondary. Sure, the application space, I can think about you tend to get up on a lot of it, but a lot of them mechanical systems have gearboxes and have gears in it, whether it's a crane on the aircraft carrier that's main job is to pick up an aircraft that's on fire.",
+            "revisions": [
+                ["about", "about you tend to get up on"],
+                ["accountable", "mechanical"]
+            ]
+        },
+        {
+            "start": 305.95,
+            "end": 311.51,
+            "speaker": "Speaker-2",
+            "content": "Yeah, to, you know, the helicopter transaxles for Power Distribution.",
+            "revisions": []
+        },
+        {
+            "start": 311.51,
+            "end": 321.11,
+            "speaker": "Speaker-1",
+            "content": "Now one thing could just be to up on that. The helicopter axle, our company only focuses on in to out, it's linear.",
+            "revisions": []
+        },
+        {
+            "start": 321.11,
+            "end": 328.91,
+            "speaker": "Speaker-1",
+            "content": "Like crew shaft, so we don't take any 90 degree turns. So like a helicopter primary transmission, not our favorite thing because that's got to take that.",
+            "revisions": [
+                ["\u00b0", "degree"]
+            ]
+        },
+        {
+            "start": 328.79,
+            "end": 331.91,
+            "speaker": "Speaker-2",
+            "content": "Take that 90. So you're not doing any worm gears, you're just doing.",
+            "revisions": []
+        },
+        {
+            "start": 332.8,
+            "end": 334.12,
+            "speaker": "Speaker-2",
+            "content": "Traditional gear mesh.",
+            "revisions": []
+        },
+        {
+            "start": 334.12,
+            "end": 340.48,
+            "speaker": "Speaker-1",
+            "content": "Yeah, a lot of times it replaces like say a planetary spur or like cycloid, like like things like that.",
+            "revisions": []
+        },
+        {
+            "start": 340.83,
+            "end": 343.27,
+            "speaker": "Speaker-1",
+            "content": "We don't do like bevel and things like that, yeah.",
+            "revisions": []
+        },
+        {
+            "start": 345.36,
+            "end": 351.44,
+            "speaker": "Speaker-2",
+            "content": "But but that's OK, you don't have to replace an entire gear train. You can focus on just the transact, just the the main actual chapter, just.",
+            "revisions": []
+        },
+        {
+            "start": 351.44,
+            "end": 358.2,
+            "speaker": "Speaker-1",
+            "content": "The yeah, you and me are on the same wavelength. So one of the interesting things. So this is what we're doing. We sell the BAE for their ground.",
+            "revisions": [
+                ["way", "wavelength"]
+            ]
+        },
+        {
+            "start": 358.2,
+            "end": 371.2,
+            "speaker": "Speaker-1",
+            "content": "Vehicles, what they actually did is they had a three stage gearbox and they only put us in as one of the stages. And what that does is a handful of interesting things. We trademarked the term torque breaker, so in the event that there's this huge torque load right now.",
+            "revisions": []
+        },
+        {
+            "start": 371.75,
+            "end": 392.27,
+            "speaker": "Speaker-1",
+            "content": "Like the gear tooth is going to strip, right? You're going to break the tooth. For us. We call it torque breaker. It's like the breaker in your garage. Like the short we. Yeah, exactly. We just slip. And the gear is not capable of transmitting more torque to any part of the system. So if we're rated a slip and make up a #100 Newton meters, that's the only thing that transmissions ever going to see almost.",
+            "revisions": [
+                ["short", "torque"]
+            ]
+        },
+        {
+            "start": 392.27,
+            "end": 394.31,
+            "speaker": "Speaker-2",
+            "content": "End up as a as a torque converter.",
+            "revisions": []
+        },
+        {
+            "start": 394.31,
+            "end": 401.59,
+            "speaker": "Speaker-1",
+            "content": "Exactly, exactly. And then all you got to do is just reduce the load. It'll gain back the synchronous operation, and then you can try again.",
+            "revisions": []
+        },
+        {
+            "start": 402.35,
+            "end": 409.31,
+            "speaker": "Speaker-2",
+            "content": "So. So there's other things like winches and Oh yeah, and weapon hoists, tom hoists, yeah.",
+            "revisions": [
+                ["toys", "hoists"],
+                ["voices", "tom hoists"]
+            ]
+        },
+        {
+            "start": 411.36,
+            "end": 420.52,
+            "speaker": "Speaker-2",
+            "content": "I could think of, I don't know the specifics on that elevators on the carrier, et cetera, but there's lots of these domains. The dilemma is a lot of the times these are.",
+            "revisions": []
+        },
+        {
+            "start": 421.55,
+            "end": 446.99,
+            "speaker": "Speaker-2",
+            "content": "Are built by large contractors that are prime contractors. They go and do the developmental system. The Navy is not directly, you know, that's a subcontractor or a vendor exactly. So what I would say to you is pay attention to the consortia that are doing like so. A lot of our focus lately to get technology into the Navy has been through other transaction authorities. I don't know if you know anything about these.",
+            "revisions": []
+        },
+        {
+            "start": 448.0,
+            "end": 451.88,
+            "speaker": "Speaker-2",
+            "content": "Non default contract because they offer some speed and some other features.",
+            "revisions": []
+        },
+        {
+            "start": 452.51,
+            "end": 454.63,
+            "speaker": "Speaker-2",
+            "content": "But the general way that we do that is we have.",
+            "revisions": []
+        },
+        {
+            "start": 454.63,
+            "end": 456.51,
+            "speaker": "Speaker-1",
+            "content": "Some of the top ones that you.",
+            "revisions": []
+        },
+        {
+            "start": 456.51,
+            "end": 480.31,
+            "speaker": "Speaker-2",
+            "content": "I don't I don't know them all, but but two that I've worked with are Mystic and CMG and Mystic is spelled with a with a Y, MYSTIC or TC. And but but I mean I think you can look outward and say but also the defense innovation unit DIU here they offer.",
+            "revisions": [
+                ["&Y at ", ", MYSTIC"],
+                ["CC", "TC"]
+            ]
+        },
+        {
+            "start": 481.44,
+            "end": 483.04,
+            "speaker": "Speaker-2",
+            "content": "Commercial service opportunity or offerings.",
+            "revisions": []
+        },
+        {
+            "start": 483.71,
+            "end": 512.95,
+            "speaker": "Speaker-2",
+            "content": "Which are their OTAs, Right. So the way that process will work is they'll have a need statement. Yeah, well, the OTA process in general, they'll put out a need statement, They'll throw some white papers against it. Construction members will throw white papers against it. And they need to announce like, and then because it's competitive, that allows you to buy the end product at Yandex or successful demonstration. So it's, it's a way. But the reason why I'm bringing that up for you is you may want to join those.",
+            "revisions": []
+        },
+        {
+            "start": 513.68,
+            "end": 518.04,
+            "speaker": "Speaker-2",
+            "content": "Part and partner, Yeah, because they're not necessarily providing systems you're providing.",
+            "revisions": []
+        },
+        {
+            "start": 518.35,
+            "end": 520.87,
+            "speaker": "Speaker-2",
+            "content": "Integral units that have very beneficial features.",
+            "revisions": []
+        },
+        {
+            "start": 520.87,
+            "end": 528.43,
+            "speaker": "Speaker-1",
+            "content": "Yeah, that makes a lot of sense. I'm on the same wavelength because, yeah, I recognize that the Navy will buy it here, right. So a.",
+            "revisions": []
+        },
+        {
+            "start": 528.43,
+            "end": 529.63,
+            "speaker": "Speaker-2",
+            "content": "Lot of times but.",
+            "revisions": []
+        },
+        {
+            "start": 529.63,
+            "end": 541.83,
+            "speaker": "Speaker-1",
+            "content": "Well, a lot of times like what we do with like say for example, like a SBIR or something like that, we would go in typically with one of these OEMs and say, hey, the core technology that the SBIR is advancing is magnetic gears. That's kind of.",
+            "revisions": [
+                ["sipper", "SBIR"]
+            ]
+        },
+        {
+            "start": 541.83,
+            "end": 544.11,
+            "speaker": "Speaker-1",
+            "content": "Kind of a risky, right? But.",
+            "revisions": []
+        },
+        {
+            "start": 544.68,
+            "end": 553.56,
+            "speaker": "Speaker-1",
+            "content": "You know, at the end of the day, it's a robot arm. That's kind of the thing that the Navy hopes to transition with this newfound capability, right? So that's kind of the the.",
+            "revisions": []
+        },
+        {
+            "start": 553.56,
+            "end": 559.04,
+            "speaker": "Speaker-2",
+            "content": "Angle, we usually, so are you, are you providing the whole arm system as well or are you just solely focused on the gearing?",
+            "revisions": []
+        },
+        {
+            "start": 559.59,
+            "end": 569.99,
+            "speaker": "Speaker-1",
+            "content": "So in the scope of the SBIR, usually we procure the robot arm with our partner and we retrofit it in collaboration with them. That's usually our deliverable. It's kind of like us as a as a.",
+            "revisions": [
+                ["sever", "SBIR"]
+            ]
+        },
+        {
+            "start": 569.99,
+            "end": 577.91,
+            "speaker": "Speaker-2",
+            "content": "Joint, but that doesn't get you inside the transaction, the transmission of a crane or yeah exactly another that would.",
+            "revisions": []
+        },
+        {
+            "start": 577.91,
+            "end": 580.19,
+            "speaker": "Speaker-1",
+            "content": "Be like the maybe like buying a robot arm, Yeah.",
+            "revisions": []
+        },
+        {
+            "start": 580.19,
+            "end": 589.59,
+            "speaker": "Speaker-2",
+            "content": "Yeah. So that's why I'm saying the developers partnerships with these consortiums because there might be data calls out there to replace systems with something new that you would have.",
+            "revisions": []
+        },
+        {
+            "start": 589.71,
+            "end": 591.15,
+            "speaker": "Speaker-2",
+            "content": "Opportunity to jump into.",
+            "revisions": []
+        },
+        {
+            "start": 593.32,
+            "end": 595.68,
+            "speaker": "Speaker-1",
+            "content": "Cool, okay, I mean it's on that and I look at.",
+            "revisions": []
+        },
+        {
+            "start": 595.68,
+            "end": 604.88,
+            "speaker": "Speaker-2",
+            "content": "All the conversions, that's one. Obviously stay involved in the SBIRs. We have a believe it's still open. We need to check, but maybe NAVAIR has a SBIR.",
+            "revisions": [
+                ["shivers", "SBIRs"],
+                ["Navier", "NAVAIR"],
+                ["silver", "SBIR"]
+            ]
+        },
+        {
+            "start": 604.88,
+            "end": 606.08,
+            "speaker": "Speaker-2",
+            "content": "For improving our.",
+            "revisions": []
+        },
+        {
+            "start": 608.36,
+            "end": 610.56,
+            "speaker": "Speaker-1",
+            "content": "Yeah, I was looking at that one. It is open, yeah.",
+            "revisions": []
+        },
+        {
+            "start": 610.56,
+            "end": 619.68,
+            "speaker": "Speaker-2",
+            "content": "In LFRC our automated center, so not really a super direct. Does it make sense to?",
+            "revisions": []
+        },
+        {
+            "start": 619.68,
+            "end": 621.76,
+            "speaker": "Speaker-2",
+            "content": "Put a paper in. I don't know, Maybe. Yeah.",
+            "revisions": []
+        },
+        {
+            "start": 622.79,
+            "end": 650.67,
+            "speaker": "Speaker-2",
+            "content": "You know, but but pay attention to 51, 51. I'm not that old 25.1 that's going to come out, you know, okay, that's the first instance of SBIRs that will come out from the Navy just for your 2025 next set of SBIRs will be. And the way the Navy does it is a pretty, pretty directed where you're like, OK, we need this, you know, and they have a pretty different than the way the Air Force. Yeah, yeah.",
+            "revisions": [
+                ["5151", "51, 51"],
+                ["siblers", "SBIRs"],
+                ["siblings", "SBIRs"]
+
+            ]
+        },
+        {
+            "start": 650.67,
+            "end": 652.39,
+            "speaker": "Speaker-1",
+            "content": "No, that makes no sense. I was wondering.",
+            "revisions": []
+        },
+        {
+            "start": 652.63,
+            "end": 667.75,
+            "speaker": "Speaker-1",
+            "content": "If you had thoughts on, because, yeah, I'm familiar with that NAVAIR SBIR, I was wondering if you thought that what we were doing is kind of in scope given that the topic is looking for. Yeah, kind of increased safety reducing, et cetera. Yeah. And it's. So do you know if there's anyone that?",
+            "revisions": [
+                ["Navier", "NAVAIR"],
+                ["giver", "SBIR"]
+            ]
+        },
+        {
+            "start": 667.75,
+            "end": 675.63,
+            "speaker": "Speaker-2",
+            "content": "I could talk to about well, so yeah. So Megan, I don't have Megane last name with me, but Megan is here from the Navy SBIR program.",
+            "revisions": [
+                ["Subaru", "SBIR"]
+            ]
+        },
+        {
+            "start": 675.63,
+            "end": 676.31,
+            "speaker": "Speaker-1",
+            "content": "OK.",
+            "revisions": []
+        },
+        {
+            "start": 676.31,
+            "end": 677.23,
+            "speaker": "Speaker-2",
+            "content": "So she can.",
+            "revisions": []
+        },
+        {
+            "start": 678.76,
+            "end": 684.36,
+            "speaker": "Speaker-2",
+            "content": "I could try to connect you with her. I would love that. We're having open office hours tomorrow. I don't know if you're still here in Austin, but.",
+            "revisions": []
+        },
+        {
+            "start": 684.83,
+            "end": 692.71,
+            "speaker": "Speaker-1",
+            "content": "You can pop in and try to speak with her. Yeah. Megan, is she on the website, like work chartering things? If I get a look at her face, like. Yeah. And.",
+            "revisions": []
+        },
+        {
+            "start": 698.0,
+            "end": 704.12,
+            "speaker": "Speaker-2",
+            "content": "So she she she works for the SBIR program.",
+            "revisions": [
+                ["Super", "SBIR"]
+            ]
+        },
+        {
+            "start": 705.43,
+            "end": 708.27,
+            "speaker": "Speaker-2",
+            "content": "And she should help you, yeah, as well.",
+            "revisions": []
+        },
+        {
+            "start": 708.27,
+            "end": 712.99,
+            "speaker": "Speaker-1",
+            "content": "OK, very cool. And is this something like tech? Is this thing I can like subscribe?",
+            "revisions": []
+        },
+        {
+            "start": 712.99,
+            "end": 713.91,
+            "speaker": "Speaker-1",
+            "content": "To like online.",
+            "revisions": []
+        },
+        {
+            "start": 713.91,
+            "end": 723.27,
+            "speaker": "Speaker-2",
+            "content": "So, so like, yeah, so we're and I haven't been there in a bit, but Liberty Tech Bridge does have a presence on on LinkedIn. So you.",
+            "revisions": [
+                ["rich", "Bridge"]
+            ]
+        },
+        {
+            "start": 723.27,
+            "end": 729.31,
+            "speaker": "Speaker-1",
+            "content": "Can you can you can follow activities there, but I think the best thing is to contact, you know, you can contact me directly.",
+            "revisions": []
+        },
+        {
+            "start": 730.2,
+            "end": 740.04,
+            "speaker": "Speaker-1",
+            "content": "OK, great. Yeah, I can do that. And then I can send you like we have some deck materials, right? And and it's just got like some zazzy pictures, like we've sold gears to like Anduril and BAE and stuff like that.",
+            "revisions": [
+                ["Anderle", "Anduril"]
+            ]
+        },
+        {
+            "start": 740.39,
+            "end": 750.95,
+            "speaker": "Speaker-2",
+            "content": "Yeah, I mean, you know, being a direct replacement for for a year, you know, I don't know if you build a relationship with like Tim.",
+            "revisions": []
+        },
+        {
+            "start": 750.95,
+            "end": 754.47,
+            "speaker": "Speaker-1",
+            "content": "Yeah, we have Tim Kim rank all them. Yeah.",
+            "revisions": []
+        },
+        {
+            "start": 754.47,
+            "end": 765.03,
+            "speaker": "Speaker-2",
+            "content": "So like I'm putting myself in a designer shoes. Yeah, we do own some of our own equipment at Lakehurst and on the OEM. So we do some of that work ourselves. But you know when you pull up the.",
+            "revisions": [
+                ["Lakers", "Lakehurst"]
+            ]
+        },
+        {
+            "start": 766.44,
+            "end": 776.6,
+            "speaker": "Speaker-2",
+            "content": "You know the the supply catalog when you're designing? Yeah, exactly. Yeah. You need to start seeing these components and understand how he says, yeah, I don't know how you promulgate that, maybe ASNE.",
+            "revisions": [
+                ["promenade", "promulgate"],
+                ["as me", "ASNE"]
+            ]
+        },
+        {
+            "start": 778.47,
+            "end": 803.87,
+            "speaker": "Speaker-2",
+            "content": "Yeah, yeah, yeah, OK. Might be a good way. Obviously these trade shows as well, right. Like there's, you know, there's a challenge here with, you know, I'm a mechanical engineer actually. And, you know, our stuff generally dates back to the 1800s, Yeah, right. There's not a lot of new mechanical engineering technology. So getting that out there and, you know, understanding. Yeah. I am curious, are you Halbach array? Are you?",
+            "revisions": [
+                ["Habakkuk ray", "Halbach array"]
+            ]
+        },
+        {
+            "start": 803.87,
+            "end": 805.19,
+            "speaker": "Speaker-1",
+            "content": "Oh, so you know magnets.",
+            "revisions": [
+                ["I'm hanging", "magnets"]
+            ]
+        },
+        {
+            "start": 805.19,
+            "end": 806.35,
+            "speaker": "Speaker-2",
+            "content": "Yeah. Are you?",
+            "revisions": []
+        },
+        {
+            "start": 806.35,
+            "end": 807.67,
+            "speaker": "Speaker-1",
+            "content": "Yeah, I can show.",
+            "revisions": []
+        },
+        {
+            "start": 808.07,
+            "end": 832.27,
+            "speaker": "Speaker-1",
+            "content": "So we can do Halbach array, but actually what's pretty exciting about our technology, but I'll go more technical than a lot of times we don't, a lot of times we just do north-south. There's a few reasons for that. Usually the flux contained with Halbach still isn't quite enough. So we need to have a back iron military specification. So we usually completely contain.",
+            "revisions": [
+                ["haul back", "Halbach"],
+                ["callback", "Halbach"]
+            ]
+        },
+        {
+            "start": 832.88,
+            "end": 841.96,
+            "speaker": "Speaker-1",
+            "content": "Anything. Anything. Yeah, we usually do complete containment. Also, a lot of times these military ones, like someone wants to hit them with a hammer, usually, like that's how much acceleration they have to survive.",
+            "revisions": []
+        },
+        {
+            "start": 842.43,
+            "end": 849.59,
+            "speaker": "Speaker-1",
+            "content": "Pretty hard to do that whole back array and like a shot. Yeah, exactly. Yeah, we like pretty robust.",
+            "revisions": []
+        },
+        {
+            "start": 849.59,
+            "end": 853.95,
+            "speaker": "Speaker-2",
+            "content": "So are you? Yeah. Are you neodymium, iron, boride or?",
+            "revisions": [
+                ["How", "So"]
+            ]
+        },
+        {
+            "start": 853.95,
+            "end": 872.35,
+            "speaker": "Speaker-1",
+            "content": "So we can work with any, Yeah, we can work with any type of magnet. Like usually we use neomagnets. However, if one day the supply chain shifts and everybody starts using rarer 3 magnets and one of them becomes high performance, we could take the exact same design and change out that.",
+            "revisions": []
+        },
+        {
+            "start": 872.83,
+            "end": 875.87,
+            "speaker": "Speaker-1",
+            "content": "Exactly. We kind of watched the supply chain news, you know, very.",
+            "revisions": []
+        },
+        {
+            "start": 875.87,
+            "end": 883.87,
+            "speaker": "Speaker-2",
+            "content": "Closely another thing that and I'm giving you this perspective more as a mechanical engineer, right yeah here's your thermal your thermal capabilities you know at what point are.",
+            "revisions": []
+        },
+        {
+            "start": 883.87,
+            "end": 892.75,
+            "speaker": "Speaker-1",
+            "content": "You losing your capability? Yeah. So our primary designs can operate -240 Celsius up to 150 Celsius positive.",
+            "revisions": []
+        },
+        {
+            "start": 893.07,
+            "end": 918.35,
+            "speaker": "Speaker-1",
+            "content": "We are capable of operating higher, but you start losing a lot of performance. Yeah, because then you have to use Sumarian cobalt and it just is not as strong of a magnet. Yeah. So right now the company, we only focus on the neo. Are you doing any work in the bearings world as well or just we actually use this commercial off the shelf, usually 10 can bearings. The systems where we provide value, the systems where the bearings aren't the problem, there's a handful of systems, usually higher speed systems that the bearings are the problem.",
+            "revisions": []
+        },
+        {
+            "start": 919.32,
+            "end": 924.0,
+            "speaker": "Speaker-1",
+            "content": "Exactly. Yeah, but like in a system, like a robotic arm, it's usually the gearbox that's the problem.",
+            "revisions": []
+        },
+        {
+            "start": 924.71,
+            "end": 954.43,
+            "speaker": "Speaker-1",
+            "content": "Yeah, exactly. So we usually target systems that are final output lower than 1000 RPM, we start to provide a lot less value. Here's a picture of kind of our efficiency versus speed. The speeds numbers are not shown here, but right here is actually 1000 RPM, right here is about 200 RPM. So you can see we're getting like that little tiny yellow sliver there is 99.9 when we're like 100 ish RPM and like Max torque. And so we we don't get any losses with more torque, we only get more losses with more speed.",
+            "revisions": []
+        },
+        {
+            "start": 954.59,
+            "end": 968.69,
+            "speaker": "Speaker-1",
+            "content": "So once you start spinning really, really fast, we actually become glossier than a mechanical gear. So we like low and slow. So like Anduril bought our gears for their propulsor on the dive program. Their final output? 600 RPM.",
+            "revisions": [
+                ["Andrew", "Anduril"]
+            ]
+        },
+        {
+            "start": 968.72,
+            "end": 984.64,
+            "speaker": "Speaker-2",
+            "content": "So I mean, are you going to see any other tech bridges today? Tell me which ones I should see. I'm new to to Navy when we started with Army and so we're learning that and I can connect you outside of here if you need. But but obviously.",
+            "revisions": []
+        },
+        {
+            "start": 985.35,
+            "end": 988.99,
+            "speaker": "Speaker-2",
+            "content": "And I haven't talked enough about Philadelphia Navy, you know the.",
+            "revisions": []
+        },
+        {
+            "start": 991.04,
+            "end": 1017.52,
+            "speaker": "Speaker-2",
+            "content": "Tons of mechanical systems, I don't know them because I'm a Lakehurst guy, but but everything from propulsion, there's gears everywhere there. Yeah. So we'll have to sync you up from my counterpart sonum. And that would be awesome. Yeah. If we could get connected to the but also Rick Tarr, who's here from the from the Southern Maryland Tech Bridge. He's out of Patuxent River Maryland. We naval aviation, right. So all about all about engines and all about gears.",
+            "revisions": [
+                ["Lakers", "Lakehurst"],
+                ["there's everywhere", "there's gears everywhere"],
+                ["sonar", "sonum"],
+                ["construction", "Patuxent"],
+                ["of our", "about"],
+                ["Targe", "Tarr"]
+            ]
+        },
+        {
+            "start": 1017.83,
+            "end": 1038.19,
+            "speaker": "Speaker-2",
+            "content": "gear trains on there there may be interest. I think the thing that you need to keep pushing is the reliability component, right, Right. Because you know, time on wing for an aircraft engine is everything, right. How often they have to pull it out and repair it. Yeah. So we can keep them on the if we can keep them on the wing more because the gears don't wear on wear out.",
+            "revisions": [
+                ["your", "gear"],
+                ["interesting", "interest"],
+                ["and everything", "is everything"]
+            ]
+        },
+        {
+            "start": 1038.19,
+            "end": 1044.71,
+            "speaker": "Speaker-1",
+            "content": "That's that's the benefit, that's the more attractive aspect, I mean.",
+            "revisions": []
+        },
+        {
+            "start": 1044.71,
+            "end": 1047.11,
+            "speaker": "Speaker-2",
+            "content": "I don't know how you compare and cost.",
+            "revisions": []
+        },
+        {
+            "start": 1047.75,
+            "end": 1055.87,
+            "speaker": "Speaker-2",
+            "content": "But even if you don't, if you really are having tangible reliability improvements and less maintenance, it'll quickly offset a change in.",
+            "revisions": []
+        },
+        {
+            "start": 1055.87,
+            "end": 1063.71,
+            "speaker": "Speaker-1",
+            "content": "Price, right, like in the case of Bluebell, we were about exactly 2 times their current year price, but they replace their gear once a.",
+            "revisions": []
+        },
+        {
+            "start": 1063.71,
+            "end": 1068.03,
+            "speaker": "Speaker-1",
+            "content": "Month, yeah, no. And so it was like a pretty easy business case for them. Yeah, but.",
+            "revisions": []
+        },
+        {
+            "start": 1068.03,
+            "end": 1071.11,
+            "speaker": "Speaker-2",
+            "content": "You also don't need to spray it with Poly or.",
+            "revisions": []
+        },
+        {
+            "start": 1071.11,
+            "end": 1074.91,
+            "speaker": "Speaker-2",
+            "content": "Exactly. And and all this man time and all that. Yeah, yeah.",
+            "revisions": []
+        },
+        {
+            "start": 1075.96,
+            "end": 1080.48,
+            "speaker": "Speaker-2",
+            "content": "Are you, I mean, I, I know they'll work on the water. I mean, they don't, they don't care.",
+            "revisions": [
+                ["on the water", "underwater"]
+            ]
+        },
+        {
+            "start": 1081.59,
+            "end": 1083.19,
+            "speaker": "Speaker-2",
+            "content": "But you don't have any lubricant at all.",
+            "revisions": []
+        },
+        {
+            "start": 1083.19,
+            "end": 1093.87,
+            "speaker": "Speaker-1",
+            "content": "Yeah. And we for some underwater applications, the quick answer, yes, for some underwater applications, we oil pressurize. We don't care if there's a lubricant in there. It's just.",
+            "revisions": []
+        },
+        {
+            "start": 1093.87,
+            "end": 1105.79,
+            "speaker": "Speaker-1",
+            "content": "That we don't require, right. So in the case of Anduril, they want to be 6000 meters depth. So for them, we did a totally hermetically sealed design and we oil pressureized it, right to get that differential barrier. Yeah, because.",
+            "revisions": [
+                ["Anderle", "Anduril"]
+            ]
+        },
+        {
+            "start": 1105.79,
+            "end": 1107.23,
+            "speaker": "Speaker-2",
+            "content": "You don't want you don't want seawater.",
+            "revisions": []
+        },
+        {
+            "start": 1107.23,
+            "end": 1110.99,
+            "speaker": "Speaker-1",
+            "content": "Jumping in. Yeah, exactly. Yeah. So it's like we can operate with seawater.",
+            "revisions": []
+        },
+        {
+            "start": 1111.35,
+            "end": 1115.63,
+            "speaker": "Speaker-1",
+            "content": "But then other stuff is going to start to rust like bearings are still going to rust things like that, right?",
+            "revisions": [
+                ["run", "rust"],
+                ["rush", "rust"]
+            ]
+        },
+        {
+            "start": 1115.63,
+            "end": 1120.99,
+            "speaker": "Speaker-2",
+            "content": "So yeah, OK. I mean, I mean, shock and vibe are always concerned so.",
+            "revisions": []
+        },
+        {
+            "start": 1120.99,
+            "end": 1136.39,
+            "speaker": "Speaker-1",
+            "content": "Yeah, we can handle like Army, we sell to Army for tank applications and we sell the space for and we make it through rocket lines. So you know, we a lot of stuff we designed to be able to handle like 13.5 G and stuff like that. So you can drop it on a staircase 20.",
+            "revisions": []
+        },
+        {
+            "start": 1136.39,
+            "end": 1139.91,
+            "speaker": "Speaker-2",
+            "content": "GS30 GS like well I don't know the exact numbers but you can look at 901.",
+            "revisions": [
+                ["9:01", "901"]
+            ]
+        },
+        {
+            "start": 1140.8,
+            "end": 1142.6,
+            "speaker": "Speaker-2",
+            "content": "E or F or wherever the shop, yeah.",
+            "revisions": [
+                ["East you're at", "E or F"]
+            ]
+        },
+        {
+            "start": 1143.31,
+            "end": 1173.11,
+            "speaker": "Speaker-1",
+            "content": "Yeah, a lot of times it depends on the size, like you know, pretty smaller ones, Chris is bigger ones. So yeah, I can look into that. Yeah, but that's something that we usually design to, we avoid Halbachs at all costs for that reason. It's just not as robust. You usually have to, to make the Halbach array work. You usually want to use a carbon fiber plastic. You don't want a back iron because with a back iron when you do a Halbachs array, you're actually hurting yourself. You're making much the flux jump back and so you want to have a cordless rotor and everything.",
+            "revisions": [
+                ["Haulbacks", "Halbachs"],
+                ["whole back", "Halbach"],
+                ["haul back", "Halbach"]
+            ]
+        },
+        {
+            "start": 1173.35,
+            "end": 1181.11,
+            "speaker": "Speaker-1",
+            "content": "Plastic, right? There's just nothing that compares the steel. Yeah. True. Yeah, it's true. Yeah. Cool.",
+            "revisions": []
+        },
+        {
+            "start": 1181.11,
+            "end": 1182.03,
+            "speaker": "Speaker-2",
+            "content": "Do you have any other?",
+            "revisions": []
+        },
+        {
+            "start": 1182.03,
+            "end": 1192.07,
+            "speaker": "Speaker-1",
+            "content": "Questions. Well, yeah, I think it's the 20 minute time mark. So it sounds like in terms of actionable items, you were going to connect me with your Naval Service Warfare Philly.",
+            "revisions": []
+        },
+        {
+            "start": 1192.55,
+            "end": 1197.79,
+            "speaker": "Speaker-1",
+            "content": "Contact and I will look for Megan, Stokes and Rick.",
+            "revisions": []
+        },
+        {
+            "start": 1197.79,
+            "end": 1202.39,
+            "speaker": "Speaker-2",
+            "content": "Tart, Rick. Char, TARRCARTARR.",
+            "revisions": []
+        },
+        {
+            "start": 1205.43,
+            "end": 1208.91,
+            "speaker": "Speaker-1",
+            "content": "But if you all find them or connect with them, you know.",
+            "revisions": []
+        },
+        {
+            "start": 1208.91,
+            "end": 1211.95,
+            "speaker": "Speaker-2",
+            "content": "And I believe Megan is 2 tables now of blonde hair.",
+            "revisions": []
+        },
+        {
+            "start": 1213.84,
+            "end": 1215.6,
+            "speaker": "Speaker-1",
+            "content": "Okay, I don't know where he is slightly away.",
+            "revisions": []
+        },
+        {
+            "start": 1220.64,
+            "end": 1224.44,
+            "speaker": "Speaker-2",
+            "content": "Today I think it's my appointment only. Tomorrow we have open office hours.",
+            "revisions": []
+        },
+        {
+            "start": 1225.07,
+            "end": 1228.95,
+            "speaker": "Speaker-2",
+            "content": "During our office hours of chat. OK and feel free to reach out.",
+            "revisions": []
+        },
+        {
+            "start": 1229.54,
+            "end": 1233.3,
+            "speaker": "Speaker-1",
+            "content": "Yeah, yeah, you've got this stuff and then I will get this emailed or something.",
+            "revisions": []
+        },
+        {
+            "start": 1233.3,
+            "end": 1236.26,
+            "speaker": "Speaker-2",
+            "content": "Yeah, I have your e-mail address.",
+            "revisions": []
+        },
+        {
+            "start": 1236.26,
+            "end": 1240.78,
+            "speaker": "Speaker-1",
+            "content": "Yeah, I gave you the card. Yeah, that's right, in blackburn.co.",
+            "revisions": [
+                ["right, in blackburn.co", "brighton@blackburn.co"]
+            ]
+        },
+        {
+            "start": 1240.78,
+            "end": 1254.26,
+            "speaker": "Speaker-2",
+            "content": "And now we have it as well. But yeah, we'll directly e-mail you that. And I've seen the output before and you'll see hyperlinks that things, which is great. Like the SBIR website for the Navy. Yeah. All right.",
+            "revisions": [
+                ["silver", "SBIR"]
+            ]
+        },
+        {
+            "start": 1254.26,
+            "end": 1258.78,
+            "speaker": "Speaker-1",
+            "content": "All right. It was a pleasure. Yeah. Good luck speaking with both of you all. I look forward to this and.",
+            "revisions": []
+        },
+        {
+            "start": 1259.22,
+            "end": 1262.18,
+            "speaker": "Speaker-1",
+            "content": "Thanks in advance for the connection to your daily contact.",
+            "revisions": []
+        }
+    ]
+}
