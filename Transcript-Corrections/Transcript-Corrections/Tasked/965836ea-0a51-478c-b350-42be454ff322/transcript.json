@@ -5,7 +5,7 @@
             "start": 0.51,
             "end": 4.55,
             "speaker": "Speaker-1",
-            "content": "When they have so I'm Rick Tar, if you could say your name Kevin, and I am Esther Lee",
+            "content": "So I'm Rick Tar, if you could say your name Kevin, and I am Esther Lee",
             "revisions": [
                 ["Tar", "Tarr"]
             ]
@@ -89,9 +89,10 @@
             "start": 73.96,
             "end": 74.8,
             "speaker": "Speaker-2",
-            "content": "SBR, this is owner.",
+            "content": "SBR, this is ONR.",
             "revisions": [
-                ["SPR", "SBR"]
+                ["SPR", "SBR"],
+                ["owner", "ONR"]
             ]
         },
         {
@@ -178,8 +179,10 @@
             "start": 161.83,
             "end": 174.71,
             "speaker": "Speaker-2",
-            "content": "So we can at the source, we actually address the actual hazard which is battery gas that are very, very flammable hydrogen, very toxic carbon dioxide and basically neutralize and get rid of them that would release.",
-            "revisions": []
+            "content": "So we can at the source, we actually address the actual hazard which is battery gas that are very, very flammable hydrogen, very toxic carbon monoxide and basically neutralize and get rid of them that would release.",
+            "revisions": [
+                ["dioxide", "monoxide"]
+            ]
         },
         {
             "start": 176.84,
@@ -210,8 +213,10 @@
             "start": 194.07,
             "end": 206.07,
             "speaker": "Speaker-2",
-            "content": "I charge the majority for those reasons, Yeah. So again, these are rare. So I'm not saying these have all the time, but it is one of the things that the problem is.",
-            "revisions": []
+            "content": "I charge the majority for those reasons, Yeah. So again, these are rare. So I'm not saying these happen all the time, but it is one of the things that the problem is.",
+            "revisions": [
+                ["have","happen"]
+            ]
         },
         {
             "start": 208.96,
@@ -304,7 +309,7 @@
             "start": 325.67,
             "end": 332.43,
             "speaker": "Speaker-1",
-            "content": "Batteries a whole different story. And you know another problem and what I'd be curious is, is.",
+            "content": "Charging batteries a whole different story. And you know another problem and what I'd be curious is, is.",
             "revisions": []
         },
         {
@@ -434,7 +439,7 @@
             "start": 443.27,
             "end": 445.31,
             "speaker": "Speaker-2",
-            "content": "Can we can stick our unit in line?",
+            "content": "Can we can stick our unit in line",
             "revisions": []
         },
         {
@@ -492,7 +497,7 @@
             "start": 527.95,
             "end": 528.71,
             "speaker": "Speaker-1",
-            "content": "To Yeah.",
+            "content": "Yeah.",
             "revisions": []
         },
         {
@@ -529,8 +534,10 @@
             "start": 563.79,
             "end": 573.59,
             "speaker": "Speaker-2",
-            "content": "University, this was a research so, so we actually there was no it in the university. We were doing research on fire dynamics of batteries.",
-            "revisions": []
+            "content": "University, this was a research so, so we actually there was no IT in the university. We were doing research on fire dynamics of batteries.",
+            "revisions": [
+                ["it","IT"]
+            ]
         },
         {
             "start": 574.19,
@@ -608,7 +615,7 @@
             "start": 630.32,
             "end": 645.0,
             "speaker": "Speaker-2",
-            "content": "You know, we talked about right and that's been so we're trying to find those cases where it's like, OK, you cannot have like the risk tolerance so low and that's where the baby came.",
+            "content": "You know, we talked about it right and that's been so we're trying to find those cases where it's like, OK, you cannot have like the risk tolerance so low and that's where the baby came.",
             "revisions": []
         },
         {
@@ -643,7 +650,7 @@
             "start": 681.63,
             "end": 686.75,
             "speaker": "Speaker-1",
-            "content": "So it's run from the Navy Office of Small Business Programs and it basically?",
+            "content": "So it's run from the Navy Office of Small Business Programs and it basically",
             "revisions": []
         },
         {
