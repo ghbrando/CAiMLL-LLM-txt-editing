@@ -5,20 +5,22 @@
             "start": 0.27,
             "end": 3.99,
             "speaker": "Speaker-1",
-            "content": "An Empire tech bridge director. And then over to you, Maria.",
-            "revisions": []
+            "content": "Inland Empire tech bridge director. And then over to you.",
+            "revisions": [
+                ["An", "Inland"]
+            ]
         },
         {
             "start": 3.99,
             "end": 6.75,
             "speaker": "Speaker-2",
-            "content": "Chloe, Vice President, SMI.",
+            "content": "Maria Chloe, Vice President, SMI.",
             "revisions": []
         },
         {
             "start": 6.75,
             "end": 9.67,
-            "speaker": "Speaker-3",
+            "speaker": "Speaker-1",
             "content": "All right, cool. So.",
             "revisions": []
         },
@@ -68,15 +70,20 @@
             "start": 64.51,
             "end": 89.43,
             "speaker": "Speaker-2",
-            "content": "We work with companies from very small entrepreneurial, you know, startups all the way to corporations because they've got projects or want to get investment from the government through for industrial based projects through IBASS Title 3. Also congressional plus ups for research, development, RT and E projects mainly is what we do. And so for instance, I've got clients that are very small.",
-            "revisions": []
+            "content": "We work with companies from very small entrepreneurial, you know, startups all the way to corporations because they've got projects or want to get investment from the government through for industrial based projects through IBAS Title 3. Also congressional plus ups for research, development, RDT&E projects mainly is what we do. And so for instance, I've got clients that are very small.",
+            "revisions": [
+                ["IBASS", "IBAS"],
+                ["RT and E", "RDT&E"]
+            ]
         },
         {
             "start": 90.24,
             "end": 92.72,
             "speaker": "Speaker-2",
-            "content": "Like hydrogen? I've got a couple of hydrogen plants.",
-            "revisions": []
+            "content": "Like hydrogen? I've got a couple of hydrogen clients.",
+            "revisions": [
+                ["plants", "clients"]
+            ]
         },
         {
             "start": 93.67,
@@ -138,7 +145,7 @@
             "start": 250.92,
             "end": 277.2,
             "speaker": "Speaker-1",
-            "content": "So they may be somebody that, that you, you may be somebody they want to talk to and, and to help that. And particular this this virtual assistant called Dina Defense innovation Navigation Assistant, because they're doing a lot of matching of, of patents and use cases and SMEs and partnerships using AI and knowledge graphs and things like that to help drive these connections that take us.",
+            "content": "So they may be somebody that, that you, you may be somebody they want to talk to and, and to help that. And particular this this virtual assistant called Dina Defense Innovation Navigation Assistant, because they're doing a lot of matching of, of patents and use cases and SMEs and partnerships using AI and knowledge graphs and things like that to help drive these connections that take us.",
             "revisions": []
         },
         {
@@ -166,14 +173,16 @@
             "start": 302.96,
             "end": 308.32,
             "speaker": "Speaker-2",
-            "content": "So when my other client is on semi, it's Global Foundry. So they're a microelectronics company.",
-            "revisions": []
+            "content": "So when my other client is on semi, it's GlobalFoundries. So they're a microelectronics company.",
+            "revisions": [
+                ["Global Foundry", "GlobalFoundries"]
+            ]
         },
         {
             "start": 309.47,
             "end": 338.63,
             "speaker": "Speaker-2",
-            "content": "And so, you know, I'm thinking about, you know, and so we see crane and supply chains, you know, like where is really the market trusted boundary. Those contracts for trusted boundary are 1010 years, $10 billion. So if you've got that contract for trusted boundary, you get 95% of what the DoD needs, but then the rest of the 5% everyone else fights for. So everybody's, you know, going after chips money in order to to get.",
+            "content": "And so, you know, I'm thinking about, you know, and so we see crane and supply chains, you know, like where is really the market trusted boundary. Those contracts for trusted boundary are 10 years, $10 billion. So if you've got that contract for trusted boundary, you get 95% of what the DoD needs, but then the rest of the 5% everyone else fights for. So everybody's, you know, going after chips money in order to to get.",
             "revisions": []
         },
         {
@@ -187,14 +196,16 @@
             "start": 363.92,
             "end": 373.4,
             "speaker": "Speaker-2",
-            "content": "There's certain eye bass awards that have gone into microelectronics and you know, they can work on that. But what I'm trying to help them with is, OK what, what's your research project? What is it that would get you?",
-            "revisions": []
+            "content": "There's certain IBAS awards that have gone into microelectronics and you know, they can work on that. But what I'm trying to help them with is, OK what, what's your research project? What is it that would get you?",
+            "revisions": [
+                ["eye bass", "IBAS"]
+            ]
         },
         {
             "start": 373.71,
             "end": 398.95,
             "speaker": "Speaker-2",
-            "content": "Which would map, which would match to a DoD gap that you'd be able to provide capability? Like what's your answer to a problem that DoD got? And so they're really struggling with like, well, we got capacity and like, OK, but how do you want to differentiate yourself between your competitors? What do you want to do there? What is it that you've got? Maybe your competitors don't? And then we can work backwards in order to try to find.",
+            "content": "Which would map, which would match to a DoD gap that you'd be able to provide capability. Like what's your answer to a problem that DoD got? And so they're really struggling with like, well, we got capacity and like, OK, but how do you want to differentiate yourself between your competitors? What do you want to do there? What is it that you've got? Maybe your competitors don't? And then we can work backwards in order to try to find.",
             "revisions": []
         },
         {
@@ -222,7 +233,7 @@
             "start": 437.39,
             "end": 463.87,
             "speaker": "Speaker-1",
-            "content": "We need to figure out a way to get you in front of our companies to brief them on this process of how do you fund your projects. So potentially in our Crucible innovation accelerator, maybe either a module in there or at one of our our quarterly tech bridge quarterly meetings, maybe just a virtual brief as to what this, So we've got one minute in October.",
+            "content": "We need to figure out a way to get you in front of our companies to brief them on this process of how do you fund your projects. So potentially in our Crucible Innovation Accelerator, maybe either a module in there or at one of our our quarterly tech bridge quarterly meetings, maybe just a virtual brief as to what this, So we've got one minute in October.",
             "revisions": []
         },
         {
@@ -285,8 +296,10 @@
             "start": 534.51,
             "end": 550.19,
             "speaker": "Speaker-2",
-            "content": "Congress and develop a strategy. So which members probably your best people that will be champions obviously in the empire, members of Congress, appropriators, House, Senate and then get them in front of them in order to to give that pitch.",
-            "revisions": []
+            "content": "Congress and develop a strategy. So which members probably your best people that will be champions obviously Inland Empire, members of Congress, appropriators, House, Senate and then get them in front of them in order to to give that pitch.",
+            "revisions": [
+                ["in the empire", "Inland Empire"]
+            ]
         },
         {
             "start": 550.19,
@@ -306,7 +319,7 @@
             "start": 567.23,
             "end": 569.31,
             "speaker": "Speaker-2",
-            "content": "But so but for a corona for.",
+            "content": "But so but for Corona for.",
             "revisions": []
         },
         {
@@ -341,8 +354,10 @@
             "start": 632.95,
             "end": 658.15,
             "speaker": "Speaker-1",
-            "content": "Need this right, Who's going to be the government customer. So we're using Dina to help, you know, do that, some of that, but then it's a lot of that human, you know, knowledge and working through that process as well. I should probably send you the naval X problem sets that we're working on that that have been sourced. So you could look through that, see if you have any of your, your projects that might align to that. Then we could have do capabilities brief and see how that might work.",
-            "revisions": []
+            "content": "Need this right, Who's going to be the government customer. So we're using Dina to help, you know, do that, some of that, but then it's a lot of that human, you know, knowledge and working through that process as well. I should probably send you the NavalX problem sets that we're working on that that have been sourced. So you could look through that, see if you have any of your, your projects that might align to that. Then we could have do capabilities brief and see how that might work.",
+            "revisions": [
+                ["naval X", "NavalX"]
+            ]
         },
         {
             "start": 658.92,
@@ -362,8 +377,11 @@
             "start": 664.59,
             "end": 694.35,
             "speaker": "Speaker-2",
-            "content": "There's associations that we were up to. It's like the ceramics association, so broader networks. Yeah. I mean, so these are associations we do this for, but you know, they're trying to also the forging and casters, which obviously isn't, you know, but we we work with all these different labs and it's just that no ones ever thought of it as nobody's done that. And I say, well, we work with crane, we work with Doggone, we work with, you know, packs river, you know, everywhere else, but no one ever.",
-            "revisions": []
+            "content": "There's associations that we were up to. It's like the ceramics association, so broader networks. Yeah. I mean, so these are associations we do this for, but you know, they're trying to also the forging and casters, which obviously isn't, you know, but we we work with all these different labs and it's just that no ones ever thought of it as nobody's done that. And I say, well, we work with Crane, we work with Dahlgren, we work with, you know, PACs, river, you know, everywhere else, but no one ever.",
+            "revisions": [
+                ["Doggone", "Dahlgren"],
+                ["packs", "PACs"]
+            ]
         },
         {
             "start": 694.51,
@@ -390,8 +408,10 @@
             "start": 723.76,
             "end": 728.84,
             "speaker": "Speaker-1",
-            "content": "So we'll do that. So I'll give Dina an action item for me to send the Naval X problem sets to Maria, OK?",
-            "revisions": []
+            "content": "So we'll do that. So I'll give Dina an action item for me to send the NavalX problem sets to Maria, OK?",
+            "revisions": [
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 730.43,
@@ -411,14 +431,14 @@
             "start": 741.8,
             "end": 743.08,
             "speaker": "Speaker-1",
-            "content": "And then I think tell.",
+            "content": "And then I think.",
             "revisions": []
         },
         {
             "start": 743.08,
             "end": 745.32,
             "speaker": "Speaker-2",
-            "content": "Me about corona, What's changed in the last?",
+            "content": "Tell me about Corona, What's changed in the last?",
             "revisions": []
         },
         {
@@ -439,7 +459,7 @@
             "start": 760.87,
             "end": 789.79,
             "speaker": "Speaker-1",
-            "content": "Our CEO at the time was really going around to various program offices, fleet briefing on Corona's mission. They had known about Corona, heard about data and stuff like that, then continued to come through Corona. They then all these Admirals started coming through and and ultimately the CNO came through. That was kind of like the peak of it, but they're all learning about Corona's data analytics capability both on performance side and then on the readiness assessment side.",
+            "content": "Our CEO at the time was really going around to various program offices, fleet briefing on Corona's mission. They had known about Corona, heard about data and stuff like that, then continued to come through Corona. They then all these admirals started coming through and and ultimately the CNO came through. That was kind of like the peak of it, but they're all learning about Corona's data analytics capability both on performance side and then on the readiness assessment side.",
             "revisions": []
         },
         {
@@ -467,35 +487,41 @@
             "start": 824.96,
             "end": 826.4,
             "speaker": "Speaker-1",
-            "content": "2120.",
+            "content": "22 hundred.",
             "revisions": []
         },
         {
             "start": 826.4,
             "end": 830.56,
             "speaker": "Speaker-2",
-            "content": "200.",
+            "content": "Yep. Are you still two uniform though?",
             "revisions": []
         },
         {
             "start": 830.56,
             "end": 852.28,
             "speaker": "Speaker-1",
-            "content": "Yeah. So now we have, we never, we used to have an EXO and then when they went to the region, the region regionalization status, we lost that billet. It went to the region. And then so we we didn't have that billet Expo billet for a long time. We had like a chief of staff, so it was a civilian billet. And then with Admiral Eric Verhaig, when he was our CEO, he got a reservist as an EXO.",
-            "revisions": []
+            "content": "Yeah. So now we have, we never, we used to have an XO and then when they went to the region, the region regionalization status, we lost that billet. It went to the region. And then so we we didn't have that billet XO billet for a long time. We had like a chief of staff, so it was a civilian billet. And then with Admiral Eric Verhaig, when he was our CEO, he got a reservist as an XO.",
+            "revisions": [
+                ["EXO","XO"],
+                ["Expo", "XO"],
+                ["Eric Verhaig", "Eric Ver Hage"]
+            ]
         },
         {
             "start": 852.95,
             "end": 867.63,
             "speaker": "Speaker-1",
-            "content": "In their temporary basis and we got it stood up as a billet and now we have and it's still generally staffed by a reservist. And so now we have an exo also have the civilian chief of staff. So we, you know, ramped up the that that side and then.",
-            "revisions": []
+            "content": "In their temporary basis and we got it stood up as a billet and now we have and it's still generally staffed by a reservist. And so now we have an XO also have the civilian chief of staff. So we, you know, ramped up the that that side and then.",
+            "revisions": [
+                ["exo", "XO"]
+            ]
         },
         {
             "start": 869.08,
             "end": 877.84,
             "speaker": "Speaker-1",
-            "content": "We've got 4 technical departments. I think we had 6 during the 2005 era for BRAC and we condensed that to four. So what?",
+            "content": "We've got 4 technical departments. I think we had 6 during the 2005 era for BRAC and we condensed that to four. So.",
             "revisions": []
         },
         {
@@ -509,8 +535,10 @@
             "start": 883.07,
             "end": 905.79,
             "speaker": "Speaker-1",
-            "content": "So, so we John Fisher used to have the measurement science warrant and I think that went back to headquarters. So I don't think we hold back anymore, but we, I think we got one or two additional technical capabilities aligned to US1 And then we also have a detachment at Seal Beach that used to be Indian Head, I believe that got that got aligned to us.",
-            "revisions": []
+            "content": "So, so we John Fischl used to have the measurement science warrant and I think that went back to headquarters. So I don't think we hold back anymore, but we, I think we got one or two additional technical capabilities aligned to us 1 And then we also have a detachment at Seal Beach that used to be Indian Head, I believe that got that got aligned to us.",
+            "revisions": [
+                ["John Fisher", "John Fischl"]
+            ]
         },
         {
             "start": 908.36,
@@ -523,13 +551,15 @@
             "start": 914.51,
             "end": 930.35,
             "speaker": "Speaker-1",
-            "content": "You know, close by, close proximity. So we've got the Seal Beach detachment. We also have a Fulbright detachment and they do a lot of the range in the range systems department. They do a lot of work on ammunition for PM ammo and.",
-            "revisions": []
+            "content": "You know, close by, close proximity. So we've got the Seal Beach detachment. We also have a Fallbrook detachment and they do a lot of the range in the range systems department. They do a lot of work on ammunition for PM ammo and.",
+            "revisions": [
+                ["Fulbright", "Fallbrook"]
+            ]
         },
         {
             "start": 932.92,
             "end": 934.44,
-            "speaker": "Speaker-2",
+            "speaker": "Speaker-1",
             "content": "So it's still Greg Smith.",
             "revisions": []
         },
@@ -649,8 +679,10 @@
             "start": 1068.27,
             "end": 1097.31,
             "speaker": "Speaker-1",
-            "content": "100% back do it. So we so that we did some innovations that in that way and just a lot of lot of different, different projects. I don't know if you're familiar with the NICE program, the Naval Innovative Science and Engineering Section 219, one of the Ndas authorized the warfare centers and labs and it started off at like I think it was 1 to 2%. Now I think it's up to three of your overhead funds can be directed to internal R&D projects and it won't count against your overhead limits so.",
-            "revisions": []
+            "content": "100% back do it. So we so that we did some innovations that in that way and just a lot of lot of different, different projects. I don't know if you're familiar with the NISE program, the Naval Innovative Science and Engineering Section 219, one of the Ndas authorized the warfare centers and labs and it started off at like I think it was 1 to 2%. Now I think it's up to three of your overhead funds can be directed to internal R&D projects and it won't count against your overhead limits so.",
+            "revisions": [
+                ["NICE program", "NISE program"]
+            ]
         },
         {
             "start": 1098.12,
@@ -663,8 +695,10 @@
             "start": 1099.47,
             "end": 1129.03,
             "speaker": "Speaker-1",
-            "content": "For federal labs, yeah, I believe, yeah, that's my understanding. So we have, you know, I think we're probably at about 10 to $12 million at Corona of internal R&D. And so that generates a lot of these projects like the smart data and then many times that that can develop as IP that we can then license out. And then but some of your, some of your project portfolio might be good to give our nice program manager an opportunity to kind of scrub it.",
-            "revisions": []
+            "content": "For federal labs, yeah, I believe, yeah, that's my understanding. So we have, you know, I think we're probably at about 10 to $12 million at Corona of internal R&D. And so that generates a lot of these projects like the smart data and then many times that that can develop as IP that we can then license out. And then but some of your, some of your project portfolio might be good to give our NISE program manager an opportunity to kind of scrub it.",
+            "revisions": [
+                ["nice program", "NISE program"]
+            ]
         },
         {
             "start": 1129.15,
@@ -677,8 +711,10 @@
             "start": 1136.63,
             "end": 1145.31,
             "speaker": "Speaker-2",
-            "content": "Yeah, I agree. So Gavini is the company that I'm working for, that's the data analytics company and it has the three projects.",
-            "revisions": []
+            "content": "Yeah, I agree. So Govini is the company that I'm working for, that's the data analytics company and it has the three projects.",
+            "revisions": [
+                ["Gavini", "Govini"]
+            ]
         },
         {
             "start": 1145.31,
@@ -760,7 +796,7 @@
         {
             "start": 1308.06,
             "end": 1328.98,
-            "speaker": "Speaker-2",
+            "speaker": "Speaker-1",
             "content": "Last four years. Wow. So I, yeah, so I will forward this over to one of our SMEs in the readiness assessment department who deals particularly with the supply logistics. I'm sure he's, I'm sure he's aware of you. So cool.",
             "revisions": []
         },
@@ -768,8 +804,10 @@
             "start": 1330.39,
             "end": 1335.51,
             "speaker": "Speaker-2",
-            "content": "Yeah, and and there was your demos and whatnot. I know that you've got a needy guide and he's really.",
-            "revisions": []
+            "content": "Yeah, and and there was your demos and whatnot. I know that you've got d'Andigne and he's really.",
+            "revisions": [
+                ["a needy guide", "d'Andigne"]
+            ]
         },
         {
             "start": 1337.02,
@@ -810,7 +848,7 @@
             "start": 1380.38,
             "end": 1402.22,
             "speaker": "Speaker-2",
-            "content": "That's what we're here for. I mean, it's really the main point is, you know, we take a lot of strategic documents and like, OK, So what what is, you know, whether the folks that are supposed to get stuff done, what have they determined as being a strategic objectives? And then we we basically focus on those and that's how we go to Congress and say, hey, you know, these are the top 1042, whatever how it fits.",
+            "content": "That's what we're here for. I mean, it's really the main point is, you know, we take a lot of strategic documents and like, OK, So what what is, you know, whether the folks that are supposed to get stuff done, what have they determined as being a strategic objectives? And then we we basically focus on those and that's how we go to Congress and say, hey, you know, these are the top 10, 4, 2, whatever how it fits.",
             "revisions": []
         },
         {
@@ -845,15 +883,21 @@
             "start": 1443.91,
             "end": 1451.03,
             "speaker": "Speaker-1",
-            "content": "NAVSEA, NAVAIR, NAV war and NAVFAC. So all but NAVSA solsys comes, you know, 4/4 of the five syscoms.",
-            "revisions": []
+            "content": "NAVSEA, NAVAIR, NAVWAR and NAVFAC. So all but NAVSUP SysComs, you know, 4 out of the five SysComs.",
+            "revisions": [
+                ["NAV war", "NAVWAR"],
+                ["NAVSA", "NAVSUP"],
+                ["solsys comes", "SysComs"]
+            ]
         },
         {
             "start": 1451.03,
             "end": 1454.15,
             "speaker": "Speaker-2",
-            "content": "So how is Navspin view? Why would? Why?",
-            "revisions": []
+            "content": "So how is NAVSUP? Why would? Why?",
+            "revisions": [
+                ["Navspin view", "NAVSUP"]
+            ]
         },
         {
             "start": 1454.15,
@@ -866,7 +910,7 @@
             "start": 1455.55,
             "end": 1467.43,
             "speaker": "Speaker-1",
-            "content": "A So I don't think that they have a warfare center per SE. And so they're not a federal laboratory and the federal laboratory status allows the warfare center to make education partnership agreements, do cooperative R&D agreements.",
+            "content": "A So I don't think that they have a warfare center per se. And so they're not a federal laboratory and the federal laboratory status allows the warfare center to make education partnership agreements, do cooperative R&D agreements.",
             "revisions": []
         },
         {
@@ -894,8 +938,10 @@
             "start": 1503.38,
             "end": 1528.74,
             "speaker": "Speaker-1",
-            "content": "About the quarterly tech bridge in October for Maria, doing a presentation during that. And then so I'll follow up with them, send you over the Naval X problem sets that we're currently working and then our latest command overview. And then I think you emailed me one of your briefs that outlined all the various projects that you've done, which fiscal years, things like that. So I think that's probably sufficient for now.",
-            "revisions": []
+            "content": "About the quarterly tech bridge in October for Maria, doing a presentation during that. And then so I'll follow up with them, send you over the NavalX problem sets that we're currently working and then our latest command overview. And then I think you emailed me one of your briefs that outlined all the various projects that you've done, which fiscal years, things like that. So I think that's probably sufficient for now.",
+            "revisions": [
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 1529.63,
@@ -922,36 +968,40 @@
             "start": 1536.7,
             "end": 1564.94,
             "speaker": "Speaker-2",
-            "content": "Dina make an action for me to send that brief over to Troy and it'll creepy look at it and see if that's exactly or right within the ballpark of what you'd like me to breathe, because I think that in my mind, that's what I would brief to people to explain, you know who we are, what kind of experts we have and what our process is in order to get interested in these, you know into the mix. And so again, some of the folks are just not they just don't have the capital to retain us. It's.",
+            "content": "Dina make an action for me to send that brief over to Troy and it'll creepy look at it and see if that's exactly or right within the ballpark of what you'd like me to brief, because I think that in my mind, that's what I would brief to people to explain, you know who we are, what kind of experts we have and what our process is in order to get interested in these, you know into the mix. And so again, some of the folks are just not they just don't have the capital to retain us. It's too expensive.",
             "revisions": []
         },
         {
             "start": 1565.14,
             "end": 1588.58,
             "speaker": "Speaker-2",
-            "content": "Depressed, but in the scheme of things, it's really, you know, who's got investors and they've got enough and they really feel like they're ready to go and want to do a project that includes, you know, research to this degree. It's very worthwhile for them. So it has had a lot of people benefit from that, but it's really just determined on, you know, really what they want to be focused on and what they want to.",
+            "content": "For us, but in the scheme of things, it's really, you know, who's got investors and they've got enough and they really feel like they're ready to go and want to do a project that includes, you know, research to this degree. It's very worthwhile for them. So it has had a lot of people benefit from that, but it's really just determined on, you know, really what they want to be focused on and what they want to.",
             "revisions": []
         },
         {
             "start": 1588.58,
             "end": 1590.58,
             "speaker": "Speaker-1",
-            "content": "Change Did you follow?",
+            "content": "Did you follow?",
             "revisions": []
         },
         {
             "start": 1591.39,
             "end": 1594.43,
             "speaker": "Speaker-1",
-            "content": "Esri is like a classic example of how Jerry Lewis did this for Esri.",
-            "revisions": []
+            "content": "ESRI is like a classic example of how Jerry Lewis did this for ESRI.",
+            "revisions": [
+                ["Esri", "ESRI"]
+            ]
         },
         {
             "start": 1595.3,
             "end": 1606.3,
             "speaker": "Speaker-1",
-            "content": "Did you did you ever follow that at all? No. OK. OK, so you know who Ezra is. I don't. Oh, OK. They're the world leader in GIS software.",
-            "revisions": []
+            "content": "Did you did you ever follow that at all? No. OK. OK, so you know who ESRI is. I don't. Oh, OK. They're the world leader in GIS software.",
+            "revisions": [
+                ["Ezra", "ESRI"]
+            ]
         },
         {
             "start": 1608.11,
