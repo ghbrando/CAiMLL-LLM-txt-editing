@@ -104,8 +104,10 @@
             "start": 118.39,
             "end": 136.27,
             "speaker": "Speaker-4",
-            "content": "Defense or you know, Drug Enforcement or is there some commercial applications because it's so specialized on what you know what it could do if it's going to be determining you know what?",
-            "revisions": []
+            "content": "Defense or you know, Drug Enforcement or is there some commercial applications because it's so specialized on what you know what it could do if it's going to be determining you know what",
+            "revisions": [
+                ["what?", "what"]
+            ]
         },
         {
             "start": 138.04,
@@ -162,8 +164,10 @@
             "start": 182.15,
             "end": 192.91,
             "speaker": "Speaker-1",
-            "content": "He's a former soldier. He just got his pH. He got his undergraduate at UCR chemical engineering and his PhD in chemical and atmospheric engineering. So he may be a technical SME.",
-            "revisions": []
+            "content": "He's a former soldier. He just got his PhD. He got his undergraduate at UCR chemical engineering and his PhD in chemical and atmospheric engineering. So he may be a technical SME.",
+            "revisions": [
+                ["pH", "PhD"]
+            ]
         },
         {
             "start": 195.12,
@@ -185,9 +189,9 @@
             "start": 211.36,
             "end": 216.48,
             "speaker": "Speaker-1",
-            "content": "I suppose. Yep. And he knows the DoD space, you know, he worked there. He's done a AQMD sensing.",
+            "content": "I suppose. Yep. And he knows the DoD space, you know, he worked there. He's done AQMD sensing.",
             "revisions": [
-                ["QMD","AQMD"]
+                ["a QMD","AQMD"]
             ]
         },
         {
@@ -266,7 +270,7 @@
             "start": 278.56,
             "end": 284.44,
             "speaker": "Speaker-6",
-            "content": "Daniel Delgado from bedtime. OK to record the session.",
+            "content": "Daniel Delgado from FedTech. OK to record the session.",
             "revisions": [
                 ["bedtime","FedTech"]
             ]
@@ -821,9 +825,10 @@
             "start": 987.79,
             "end": 1005.31,
             "speaker": "Speaker-7",
-            "content": "Martin, I had a chance to meet with Eric Gosink. Yeah, great. Last week. I don't think he knows that we have these calls because he was wondering like, what is our relationship with Martin and things like that? I was like, yeah, well, we're still, we're still talking to Martin. Figure this one out.",
+            "content": "Martin, I had a chance to meet with Eric Gosink. Yeah, great. Last week. I don't think he knows that we have these calls because he was wondering like, what is our relationship with Martin and things like that? I was like, yeah, well, we're still, we're still talking to Martin. Figuring this one out.",
             "revisions": [
-                ["Eric Gosin", "Eric Gosink"]
+                ["Eric Gosin", "Eric Gosink"],
+                ["Figure", "Figuring"]
             ]
         },
         {
@@ -947,8 +952,10 @@
             "start": 1131.27,
             "end": 1136.27,
             "speaker": "Speaker-1",
-            "content": "I think, I mean it's on my calendar, not that particularly the overall cybercon is.",
-            "revisions": []
+            "content": "I think, I mean it's on my calendar, not that particularly the overall SBIRcon is.",
+            "revisions": [
+                ["cybercon", "SBIRcon"]
+            ]
         },
         {
             "start": 1137.92,
@@ -1113,9 +1120,10 @@
             "start": 1284.31,
             "end": 1296.03,
             "speaker": "Speaker-7",
-            "content": "And we can we can support to make sure that like the material that you will need for FedTech to let them know like what our programs can do so that they know once they get all that information about the SDAR.",
+            "content": "And we can we can support to make sure that like the material that you will need for FedTech to let them know like what our programs can do so that they know once they get all that information about the SBIR.",
             "revisions": [
-                ["bed tech", "FedTech"]
+                ["bed tech", "FedTech"],
+                ["SDAR", "SBIR"]
             ]
         },
         {
@@ -1186,24 +1194,29 @@
             "start": 1369.91,
             "end": 1383.07,
             "speaker": "Speaker-4",
-            "content": "And, you know, and since you're getting a lot better at connecting all the different, you know, resources out there, but at all the different universities, that it might be a way of, you know.",
-            "revisions": []
+            "content": "And, you know, NSIN, you know, getting a lot better at connecting all the different, you know, resources out there, but at all the different universities, that it might be a way of, you know.",
+            "revisions": [
+                ["and since you're","NSIN, you know,"]
+            ]
         },
         {
             "start": 1384.58,
             "end": 1403.26,
             "speaker": "Speaker-4",
-            "content": "Fill the prime the pump, so to speak. And then also you have, you know, the NSIN might have specific use cases that they're trying to solve. And so then we can help find my daddy. Here's here's here's some assets here at San Diego State or at UC Berkeley or something that I can fill the.",
+            "content": "Fill the prime the pump, so to speak. And then also you have, you know, the NSIN might have specific use cases that they're trying to solve. And so then we can help find identity. Here's here's here's some assets here at San Diego State or at UC Berkeley or something that I can fill the.",
             "revisions": [
-                ["engine","NSIN"]
+                ["engine","NSIN"],
+                ["my daddy","identity"]
             ]
         },
         {
             "start": 1403.26,
             "end": 1406.38,
             "speaker": "Speaker-8",
-            "content": "Gap Awesome, thanks for that job.",
-            "revisions": []
+            "content": "Gap Awesome, thanks for that John.",
+            "revisions": [
+                ["job","John"]
+            ]
         },
         {
             "start": 1406.38,
@@ -1302,16 +1315,19 @@
             "start": 1543.03,
             "end": 1544.43,
             "speaker": "Speaker-4",
-            "content": "December event.",
-            "revisions": []
+            "content": "SBIR event.",
+            "revisions": [
+                ["December", "SBIR"]
+            ]
         },
         {
             "start": 1546.55,
             "end": 1560.95,
             "speaker": "Speaker-5",
-            "content": "I appreciate your support, John. John S And then the confirming shot is involvement and that's, that's already been confirmed. So that, that's terrific. We're ready to party and I look forward very much to learning more about and meeting NSIN.",
+            "content": "I appreciate your support, John. John S And then the confirming Shadi's involvement and that's, that's already been confirmed. So that, that's terrific. We're ready to party and I look forward very much to learning more about and meeting NSIN.",
             "revisions": [
-                ["Anson","NSIN"]
+                ["Anson","NSIN"],
+                ["shot is", "Shadi's"]
             ]
         },
         {
