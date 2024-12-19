@@ -12,22 +12,26 @@
             "start": 5.96,
             "end": 6.88,
             "speaker": "Speaker-1",
-            "content": "Zemcross and C.",
-            "revisions": []
+            "content": "Ben McCrossan, I'm CEO.",
+            "revisions": [
+                ["Zemcross", "McCrossan"]
+            ]
         },
         {
             "start": 7.31,
             "end": 8.87,
             "speaker": "Speaker-2",
-            "content": "Founder Ensemble Space Labs.",
+            "content": "Founder of Ensemble Space Labs.",
             "revisions": []
         },
         {
             "start": 8.87,
             "end": 12.79,
             "speaker": "Speaker-3",
-            "content": "Daniel Delgado, associate at Fed Tech.",
-            "revisions": []
+            "content": "Daniel Delgado, associate at FedTech.",
+            "revisions": [
+                ["Fed Tech", "FedTech"]
+            ]
         },
         {
             "start": 15.24,
@@ -68,7 +72,7 @@
             "start": 38.8,
             "end": 45.88,
             "speaker": "Speaker-5",
-            "content": "All right. You guys seen us?",
+            "content": "All right. You guys seen this alright?",
             "revisions": []
         },
         {
@@ -89,8 +93,10 @@
             "start": 57.16,
             "end": 77.4,
             "speaker": "Speaker-2",
-            "content": "This is the team. So we have 5 people on the team and there's one other part timer not listed as a data scientist, but yeah, my background Navy. Then we have a few different pH DS who are pretty strong on the physics and data science piece as well as a software engineer. So we've been.",
-            "revisions": []
+            "content": "This is the team. So we have 5 people on the team and there's one other part timer not listed as a data scientist, but yeah, my background Navy. Then we have a few different PhDs who are pretty strong on the physics and data science piece as well as a software engineer. So we've been.",
+            "revisions": [
+                ["pH Ds", "PhDs"]
+            ]
         },
         {
             "start": 78.31,
@@ -124,22 +130,28 @@
             "start": 145.11,
             "end": 174.27,
             "speaker": "Speaker-2",
-            "content": "This was a couple years ago. The SpaceX lost basically a full launch of Starling satellites because they were launched during a solar storm and these caused the satellites to become unstable, lose altitude, and ultimately come crashing back in through the atmosphere. Just this past May actually a solar storm knocked out GPS for most of America and it cost American farmers about 500 million because of the loss of revenue for being unable to use any precision.",
-            "revisions": []
+            "content": "This was a couple years ago. The SpaceX lost basically a full launch of Starlink satellites because they were launched during a solar storm and these caused the satellites to become unstable, lose altitude, and ultimately come crashing back in through the atmosphere. Just this past May actually a solar storm knocked out GPS for most of America and it cost American farmers about 500 million because of the loss of revenue for being unable to use any precision.",
+            "revisions": [
+                ["Starling", "Starlink"]
+            ]
         },
         {
             "start": 175.07,
             "end": 180.91,
             "speaker": "Speaker-2",
-            "content": "TPS guided agriculture equipment, and then there's also the need for astronauts as well. Where?",
-            "revisions": []
+            "content": "GPS guided agriculture equipment, and then there's also the need for astronauts as well. Where?",
+            "revisions": [
+                ["TPS", "GPS"]
+            ]
         },
         {
             "start": 181.15,
             "end": 211.03,
             "speaker": "Speaker-2",
-            "content": "Solar storms pose a major radiation threat. So they're looking at any kind of commercial or government, military, human space activity. It's solar. Solar weather is a major risk. And so that's really what we're trying to address, kind of diving into a little bit more detail on the specific impacts of space weather. So atmospheric drag, charged particle relation and ionosphere conditions are kind of a separate phenomenon, all associated with space weather, but they have different.",
-            "revisions": []
+            "content": "Solar storms pose a major radiation threat. So they're looking at any kind of commercial or government, military, human space activity. It's solar. Solar weather is a major risk. And so that's really what we're trying to address, kind of diving into a little bit more detail on the specific impacts of space weather. So atmospheric drag, charged particle radiation and ionosphere conditions are kind of a separate phenomenon, all associated with space weather, but they have different.",
+            "revisions": [
+                ["charged particle relation", "charged particle radiation"]
+            ]
         },
         {
             "start": 211.39,
@@ -152,7 +164,7 @@
             "start": 217.64,
             "end": 240.92,
             "speaker": "Speaker-2",
-            "content": "Thermosphere, so really applicable to Leo and so it's going to fly the launch operations stuff like space domain awareness and conjunction analysis and then guidance, navigation and control of satellites. So really kind of a wide range of impacts on how satellites are flying through low Earth orbit for charged particle radiation. These are going to be so high energy charge particles.",
+            "content": "Thermosphere, so really applicable to LEO and so it's going to fly the launch operations stuff like space domain awareness and conjunction analysis and then guidance, navigation and control of satellites. So really kind of a wide range of impacts on how satellites are flying through low Earth orbit for charged particle radiation. These are going to be so high energy charge particles.",
             "revisions": []
         },
         {
@@ -208,8 +220,10 @@
             "start": 387.99,
             "end": 417.91,
             "speaker": "Speaker-2",
-            "content": "Interactions while still being able to leverage new data and kind of the modern machine learning techniques as well as some other techniques like ensemble walling and data simulation. So what we're looking at is really a lot of methods have been successfully used for terrestrial weather systems and applying these to the problem of space weather. And as mentioned the resolution or sorry the latency is something that we can really reduce as well. Machine learning models are able to run a lot faster than some of the numerical.",
-            "revisions": []
+            "content": "Interactions while still being able to leverage new data and kind of the modern machine learning techniques as well as some other techniques like ensemble modeling and data simulation. So what we're looking at is really a lot of methods have been successfully used for terrestrial weather systems and applying these to the problem of space weather. And as mentioned the resolution or sorry the latency is something that we can really reduce as well. Machine learning models are able to run a lot faster than some of the numerical.",
+            "revisions": [
+                ["ensemble walling", "ensemble modeling"]
+            ]
         },
         {
             "start": 418.07,
@@ -257,14 +271,16 @@
             "start": 515.75,
             "end": 528.75,
             "speaker": "Speaker-2",
-            "content": "Looking at doing something of a cashless exchange so we can start getting user data as well to then feed in and train our models, and then looking at doing something like a SAS revenue type model.",
-            "revisions": []
+            "content": "Looking at doing something of a cashless exchange so we can start getting user data as well to then feed in and train our models, and then looking at doing something like a SaaS revenue type model.",
+            "revisions": [
+                ["SAS revenue", "SaaS revenue"]
+            ]
         },
         {
             "start": 530.92,
             "end": 545.56,
             "speaker": "Speaker-2",
-            "content": "Competitions, this is a little bit of the other landscape is more kind of investor focused, but there's a yes, some non traditional companies doing similar stuff. A few of the defensive crimes are also working in space weather and there's a handful of other small start-ups.",
+            "content": "Competitions, this is a little bit of the other landscape is more kind of investor focused, but there's a yes, some non traditional companies doing similar stuff. A few of the defense crimes are also working in space weather and there's a handful of other small start-ups.",
             "revisions": []
         },
         {
@@ -278,8 +294,10 @@
             "start": 576.27,
             "end": 601.51,
             "speaker": "Speaker-2",
-            "content": "We have funding from NOAA to help improve upon some of their existing tools and develop really that last mile insights of having the the monitoring, the visualizations, the alerts for, for one of the models that Noah has built. And then we have a direct to phase through from AFRL to forecast solar particles, which are another space weather phenomenon.",
-            "revisions": []
+            "content": "We have funding from NOAA to help improve upon some of their existing tools and develop really that last mile insights of having the the monitoring, the visualizations, the alerts for, for one of the models that NOAA has built. And then we have a direct to phase through from AFRL to forecast solar particles, which are another space weather phenomenon.",
+            "revisions": [
+                ["Noah", "NOAA"]
+            ]
         },
         {
             "start": 606.84,
@@ -299,15 +317,20 @@
             "start": 615.44,
             "end": 643.16,
             "speaker": "Speaker-1",
-            "content": "I like the the multi agency phase three concept as well. We just had a meeting with Space Works yesterday looking at common capabilities that we could we could address and pursue together. So would like to explore that with them as well. And then on the Noah side, my former tech transfer officer, he used to work with me is now over serving as a tech transfer officer for Noah and all their labs. So that might be an interesting partnership too.",
-            "revisions": []
+            "content": "I like the the multi agency phase three concept as well. We just had a meeting with SpaceWorks yesterday looking at common capabilities that we could we could address and pursue together. So would like to explore that with them as well. And then on the NOAA side, my former tech transfer officer, he used to work with me is now over serving as a tech transfer officer for NOAA and all their labs. So that might be an interesting partnership too.",
+            "revisions": [
+                ["Space Works", "SpaceWorks"],
+                ["Noah", "NOAA"]
+            ]
         },
         {
             "start": 648.12,
             "end": 662.12,
             "speaker": "Speaker-2",
-            "content": "Yeah, Yeah. I think that there's a lot of opportunity there just because there's so many different groups that are working in space weather. And we think that that's one way that instead of having kind of different spurs for each kind of specific.",
-            "revisions": []
+            "content": "Yeah, Yeah. I think that there's a lot of opportunity there just because there's so many different groups that are working in space weather. And we think that that's one way that instead of having kind of different SBIRs for each kind of specific.",
+            "revisions": [
+                ["spurs","SBIRs"]
+            ]
         },
         {
             "start": 664.16,
@@ -341,8 +364,10 @@
             "start": 752.27,
             "end": 779.19,
             "speaker": "Speaker-2",
-            "content": "And so that's what we've got kind of more or less you know ready and we are at earlier stages of development and some of the other projects. So with the Sep forecasting model, so that's like a different space weather phenomenon. We're about halfway through a two year directive phase two SBIR and then for the installation one which is a separate space weather phenomena we just started.",
-            "revisions": []
+            "content": "And so that's what we've got kind of more or less you know ready and we are at earlier stages of development and some of the other projects. So with the SEP forecasting model, so that's like a different space weather phenomenon. We're about halfway through a two year directive phase two SBIR and then for the installation one which is a separate space weather phenomena we just started.",
+            "revisions": [
+                ["Sep", "SEP"]
+            ]
         },
         {
             "start": 780.8,
@@ -355,8 +380,10 @@
             "start": 782.91,
             "end": 808.64,
             "speaker": "Speaker-2",
-            "content": "Last month, so pretty pretty early on and then this this Noah one, we actually just officially got the contract yesterday. So that's kind of a big a big win for us. Congratulations to and that is to really improve upon. So Noah has a kind of space weather equivalent of like the the National Weather Service. And So what we are doing is building upon their tools to kind of make it more robust and kind of.",
-            "revisions": []
+            "content": "Last month, so pretty pretty early on and then this this Noah one, we actually just officially got the contract yesterday. So that's kind of a big a big win for us. Congratulations to and that is to really improve upon. So NOAA has a kind of space weather equivalent of like the the National Weather Service. And So what we are doing is building upon their tools to kind of make it more robust and kind of.",
+            "revisions": [
+                ["Noah", "NOAA"]
+            ]
         },
         {
             "start": 808.68,
@@ -369,8 +396,10 @@
             "start": 824.03,
             "end": 852.99,
             "speaker": "Speaker-2",
-            "content": "And also kind of, you know, assessing the, the model performance and trying to improve upon that. So a few different things there going on with the with Nella. So yeah, the, the, the hope is that we can kind of have one more like consistent kind of vehicle instead of trying to I guess go after each topic, you know, kind of one at a time and and really kind of tie, tie everything together, saying there's a lot of synergies from our platform approach where a lot of the data sources are going to be applicable between the different models and a lot of the the infrast.",
-            "revisions": []
+            "content": "And also kind of, you know, assessing the, the model performance and trying to improve upon that. So a few different things there going on with the with NOAA. So yeah, the, the, the hope is that we can kind of have one more like consistent kind of vehicle instead of trying to I guess go after each topic, you know, kind of one at a time and and really kind of tie, tie everything together, saying there's a lot of synergies from our platform approach where a lot of the data sources are going to be applicable between the different models and a lot of the the infrastructure.",
+            "revisions": [
+                ["Nella", "NOAA"]
+            ]
         },
         {
             "start": 853.19,
@@ -390,22 +419,29 @@
             "start": 880.48,
             "end": 885.52,
             "speaker": "Speaker-3",
-            "content": "Awesome. So for Fed Tech, so in terms of our programs here on the West Coast.",
-            "revisions": []
+            "content": "Awesome. So for FedTech, so in terms of our programs here on the West Coast.",
+            "revisions": [
+                ["Fed Tech", "FedTech"]
+            ]
         },
         {
             "start": 886.03,
             "end": 914.67,
             "speaker": "Speaker-3",
-            "content": "Troy has a couple of contacts he had. He had him share it. However for Fed tech, Fed tech HQ isn't Arlington. I think the metro stop is Boston. So there is a deep tech meet up tomorrow. We do have a NASA Noah kind of startup studio program with people who run those programs based out of HQ. Now I don't know if they will be at that meet up in the evening, but I think it's worth your while just.",
-            "revisions": []
+            "content": "Troy has a couple of contacts he had. He had him share it. However for FedTech, Fed tech HQ isn't Arlington. I think the metro stop is Boston. So there is a deep tech meet up tomorrow. We do have a NASA NOAA kind of startup studio program with people who run those programs based out of HQ. Now I don't know if they will be at that meet up in the evening, but I think it's worth your while just.",
+            "revisions": [
+                ["Fed tech", "FedTech"],
+                ["Noah", "NOAA"]
+            ]
         },
         {
             "start": 915.15,
             "end": 923.51,
             "speaker": "Speaker-3",
-            "content": "Just to go drop by and mingle further with the individuals from our HQ office and Troy, I think somebody from Naval.",
-            "revisions": []
+            "content": "Just to go drop by and mingle further with the individuals from our HQ office and Troy, I think somebody from NavalX.",
+            "revisions": [
+                ["Naval", "NavalX"]
+            ]
         },
         {
             "start": 923.51,
@@ -418,8 +454,10 @@
             "start": 928.47,
             "end": 932.15,
             "speaker": "Speaker-1",
-            "content": "Reception so you get to meet some of the Naval acts leadership as well.",
-            "revisions": []
+            "content": "Reception so you get to meet some of the NavalX leadership as well.",
+            "revisions": [
+                ["Naval acts", "NavalX"]
+            ]
         },
         {
             "start": 933.43,
@@ -439,8 +477,10 @@
             "start": 964.47,
             "end": 967.19,
             "speaker": "Speaker-2",
-            "content": "I was not tracking Alice. Would love to love to see it and see if I.",
-            "revisions": []
+            "content": "I was not tracking that one. Would love to love to see it and see if I.",
+            "revisions": [
+                ["Alice", "that one"]
+            ]
         },
         {
             "start": 967.19,
@@ -502,8 +542,10 @@
             "start": 1027.23,
             "end": 1029.59,
             "speaker": "Speaker-1",
-            "content": "NSW well with Card Rock, Maryland.",
-            "revisions": []
+            "content": "NSW well with Carderock, Maryland.",
+            "revisions": [
+                ["Card Rock", "Carderock"]
+            ]
         },
         {
             "start": 1031.68,
@@ -516,8 +558,10 @@
             "start": 1036.52,
             "end": 1058.08,
             "speaker": "Speaker-1",
-            "content": "We, if you, if you go to our website, our Naval X website, you'll see a map of all the tech bridges and you'll, and you'll see all the different focus areas that we're, we're interested in which it relates to our initial, you know, our host command, but we do have a lot of data analytics. My command, we do a lot of data analytics in AI so.",
-            "revisions": []
+            "content": "We, if you, if you go to our website, our NavalX website, you'll see a map of all the tech bridges and you'll, and you'll see all the different focus areas that we're, we're interested in which it relates to our initial, you know, our host command, but we do have a lot of data analytics. My command, we do a lot of data analytics in AI so.",
+            "revisions": [
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 1060.03,
@@ -600,8 +644,10 @@
             "start": 1169.67,
             "end": 1193.15,
             "speaker": "Speaker-4",
-            "content": "And yeah, there's on there you're able to see like additional funding opportunities, talk to, let's say you met Troy at A at an event or something. And instead of, you know, getting e-mail and whatever, he's like, hey, just meet me on that writer. Just send me a chat on there and we're able to collaborate through there. Oh, OK. Yeah. So if if you have any time.",
-            "revisions": []
+            "content": "And yeah, there's on there you're able to see like additional funding opportunities, talk to, let's say you met Troy at A at an event or something. And instead of, you know, getting e-mail and whatever, he's like, hey, just meet me on Outrider. Just send me a chat on there and we're able to collaborate through there. Oh, OK. Yeah. So if if you have any time.",
+            "revisions": [
+                ["that writer", "Outrider"]
+            ]
         },
         {
             "start": 1193.96,
@@ -628,8 +674,11 @@
             "start": 1221.5,
             "end": 1238.9,
             "speaker": "Speaker-3",
-            "content": "And so then if you could send me over your pitch deck, I'll forward it over to the lead PM for NASA. And Noah again, I'm, I'm not sure if, if they will be at the event tomorrow, but just so they are aware of the kind of work that, that you do if they have a chance to go over your, your debt quickly.",
-            "revisions": []
+            "content": "And so then if you could send me over your pitch deck, I'll forward it over to the lead PM for NASA. And NOAA again, I'm, I'm not sure if, if they will be at the event tomorrow, but just so they are aware of the kind of work that, that you do if they have a chance to go over your, your deck quickly.",
+            "revisions": [
+                ["Noah", "NOAA"],
+                ["debt", "deck"]
+            ]
         },
         {
             "start": 1238.9,
@@ -684,15 +733,19 @@
             "start": 1277.46,
             "end": 1307.38,
             "speaker": "Speaker-2",
-            "content": "We're pretty early, so that's OK. The one that's really tough, the PNC stuff is the project that we started just last month with as the phase one effort that we just started. So we're kind of still really ramping up in that space. But I definitely see that as a big opportunity down the line both for, yeah, the communications and then like all PNT where this is really kind of one of those things that it's, it's pretty tough to engineer around. And so being able to kind of forecast and characterize the environment, it's pretty, pretty good because having redundant systems and stuff. And so I think there's really a big play.",
-            "revisions": []
+            "content": "We're pretty early, so that's OK. The one that's really tough, the PNT stuff is the project that we started just last month with as the phase one effort that we just started. So we're kind of still really ramping up in that space. But I definitely see that as a big opportunity down the line both for, yeah, the communications and then like all PNT where this is really kind of one of those things that it's, it's pretty tough to engineer around. And so being able to kind of forecast and characterize the environment, it's pretty, pretty good because having redundant systems and stuff. And so I think there's really a big play.",
+            "revisions": [
+                ["PNC", "PNT"]
+            ]
         },
         {
             "start": 1307.62,
             "end": 1314.54,
             "speaker": "Speaker-2",
             "content": "There as far as you know how they were going to be operating kind of future PNC type systems to essentially work around it.",
-            "revisions": []
+            "revisions": [
+                ["PNC", "PNT"]
+            ]
         },
         {
             "start": 1314.54,
@@ -740,8 +793,10 @@
             "start": 1366.87,
             "end": 1370.83,
             "speaker": "Speaker-3",
-            "content": "Definitely speak with the guest speaker tomorrow from Naval X.",
-            "revisions": []
+            "content": "Definitely speak with the guest speaker tomorrow from NavalX.",
+            "revisions": [
+                ["Naval X", "NavalX"]
+            ]
         },
         {
             "start": 1371.34,
